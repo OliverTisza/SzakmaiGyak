@@ -1,0 +1,16 @@
+
+Topic: 0 
+Words: 0.008*"american" + 0.007*"night" + 0.007*"citi" + 0.007*"plan" + 0.006*"water" + 0.006*"provid" + 0.006*"member" + 0.005*"children" + 0.005*"second" + 0.004*"busi"
+Topic: 1 
+Words: 0.005*"famili" + 0.005*"expect" + 0.005*"chang" + 0.004*"cours" + 0.004*"best" + 0.004*"away" + 0.004*"kind" + 0.004*"histori" + 0.003*"local" + 0.003*"probabl"
+Topic: 2 
+Words: 0.005*"area" + 0.004*"inform" + 0.004*"power" + 0.004*"report" + 0.004*"word" + 0.004*"univers" + 0.004*"valu" + 0.003*"understand" + 0.003*"servic" + 0.003*"south"
+Topic: 3 
+Words: 0.008*"hous" + 0.006*"face" + 0.006*"home" + 0.005*"room" + 0.004*"shall" + 0.004*"fact" + 0.004*"mind" + 0.004*"today" + 0.004*"figur" + 0.004*"voic"
+Topic: 4 
+Words: 0.008*"problem" + 0.007*"program" + 0.007*"school" + 0.006*"ask" + 0.006*"question" + 0.005*"experi" + 0.004*"door" + 0.004*"human" + 0.004*"month" + 0.004*"young"
+Topic: 5 
+Words: 0.021*"thi" + 0.017*"they" + 0.017*"there" + 0.011*"when" + 0.009*"what" + 0.008*"that" + 0.007*"countri" + 0.006*"then" + 0.006*"these" + 0.005*"reason"
+Topic: 6 
+Words: 0.007*"govern" + 0.006*"group" + 0.006*"presid" + 0.006*"church" + 0.005*"want" + 0.005*"eye" + 0.004*"forc" + 0.004*"polit" + 0.004*"parti" + 0.004*"increas"\
+Perplexity: -8.224441377041346

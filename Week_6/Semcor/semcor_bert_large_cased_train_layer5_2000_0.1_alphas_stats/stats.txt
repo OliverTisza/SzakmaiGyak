@@ -1,0 +1,16 @@
+
+Topic: 0 
+Words: 0.015*"work" + 0.015*"there" + 0.013*"give" + 0.010*"leav" + 0.009*"program" + 0.008*"area" + 0.008*"open" + 0.008*"present" + 0.007*"turn" + 0.007*"word"
+Topic: 1 
+Words: 0.019*"time" + 0.016*"thi" + 0.013*"peopl" + 0.009*"mean" + 0.008*"number" + 0.008*"place" + 0.008*"when" + 0.008*"person" + 0.007*"govern" + 0.007*"point"
+Topic: 2 
+Words: 0.012*"world" + 0.012*"nation" + 0.010*"look" + 0.009*"american" + 0.009*"hand" + 0.008*"school" + 0.007*"mrs." + 0.007*"countri" + 0.007*"small" + 0.007*"case"
+Topic: 3 
+Words: 0.019*"state" + 0.018*"come" + 0.016*"like" + 0.011*"take" + 0.007*"develop" + 0.007*"head" + 0.007*"member" + 0.007*"hous" + 0.006*"line" + 0.006*"follow"
+Topic: 4 
+Words: 0.013*"they" + 0.007*"begin" + 0.005*"gener" + 0.005*"stand" + 0.005*"write" + 0.004*"live" + 0.004*"result" + 0.004*"girl" + 0.004*"hold" + 0.004*"busi"
+Topic: 5 
+Words: 0.035*"say" + 0.022*"know" + 0.015*"go" + 0.013*"think" + 0.012*"good" + 0.011*"tell" + 0.009*"unit" + 0.009*"want" + 0.009*"differ" + 0.008*"what"
+Topic: 6 
+Words: 0.027*"year" + 0.011*"thing" + 0.011*"long" + 0.010*"life" + 0.010*"need" + 0.010*"littl" + 0.009*"great" + 0.008*"citi" + 0.008*"experi" + 0.007*"problem"\
+Perplexity: -7.729347319318673
