@@ -1,0 +1,40 @@
+Time for creating the dict and corpus: 4.16 mins
+Time for this iter: 1.28 mins
+Time for this iter: 1.57 mins
+Time for this iter: 1.85 mins
+Time for this iter: 2.1 mins
+Time for this iter: 2.43 mins
+Time for this iter: 2.49 mins
+Time for this iter: 2.62 mins
+Time for this until plot: 18.5 mins
+Topic: 0 
+Words: 0.035*"work" + 0.028*"give" + 0.019*"turn" + 0.019*"program" + 0.018*"area" + 0.018*"open" + 0.014*"public" + 0.014*"question" + 0.013*"power" + 0.013*"light"
+Topic: 1 
+Words: 0.021*"mean" + 0.015*"person" + 0.015*"point" + 0.015*"right" + 0.014*"govern" + 0.013*"increas" + 0.011*"show" + 0.011*"appear" + 0.011*"better" + 0.010*"requir"
+Topic: 2 
+Words: 0.026*"look" + 0.023*"american" + 0.019*"school" + 0.015*"mrs." + 0.015*"case" + 0.015*"countri" + 0.015*"start" + 0.014*"studi" + 0.014*"order" + 0.014*"help"
+Topic: 3 
+Words: 0.049*"state" + 0.048*"come" + 0.018*"head" + 0.017*"line" + 0.015*"water" + 0.013*"meet" + 0.012*"continu" + 0.011*"understand" + 0.010*"feet" + 0.010*"care"
+Topic: 4 
+Words: 0.032*"they" + 0.017*"begin" + 0.014*"gener" + 0.012*"girl" + 0.011*"busi" + 0.011*"hold" + 0.009*"field" + 0.009*"idea" + 0.009*"have" + 0.008*"determin"
+Topic: 5 
+Words: 0.036*"go" + 0.022*"differ" + 0.020*"possibl" + 0.019*"what" + 0.018*"group" + 0.016*"face" + 0.016*"famili" + 0.012*"valu" + 0.012*"forc" + 0.012*"bodi"
+Topic: 6 
+Words: 0.026*"long" + 0.018*"experi" + 0.016*"night" + 0.013*"bring" + 0.012*"play" + 0.012*"best" + 0.012*"inform" + 0.011*"industri" + 0.010*"town" + 0.010*"half"
+Topic: 7 
+Words: 0.045*"like" + 0.040*"thi" + 0.026*"take" + 0.024*"tell" + 0.021*"hous" + 0.016*"chang" + 0.012*"local" + 0.011*"later" + 0.011*"cours" + 0.011*"earli"
+Topic: 8 
+Words: 0.044*"know" + 0.029*"think" + 0.020*"littl" + 0.019*"when" + 0.016*"present" + 0.013*"feel" + 0.013*"church" + 0.012*"fact" + 0.011*"see" + 0.010*"social"
+Topic: 9 
+Words: 0.057*"time" + 0.028*"good" + 0.027*"world" + 0.020*"number" + 0.019*"problem" + 0.016*"high" + 0.016*"import" + 0.016*"word" + 0.014*"week" + 0.013*"then"
+Topic: 10 
+Words: 0.012*"want" + 0.011*"great" + 0.008*"presid" + 0.008*"provid" + 0.008*"room" + 0.007*"call" + 0.007*"report" + 0.006*"make" + 0.006*"posit" + 0.005*"street"
+Topic: 11 
+Words: 0.031*"peopl" + 0.024*"need" + 0.024*"place" + 0.023*"life" + 0.021*"unit" + 0.020*"form" + 0.017*"follow" + 0.015*"result" + 0.015*"write" + 0.013*"includ"
+Topic: 12 
+Words: 0.060*"year" + 0.033*"there" + 0.026*"nation" + 0.025*"thing" + 0.020*"develop" + 0.020*"hand" + 0.019*"citi" + 0.019*"home" + 0.016*"stand" + 0.014*"offic"
+Topic: 13 
+Words: 0.074*"say" + 0.023*"leav" + 0.016*"small" + 0.015*"effect" + 0.015*"live" + 0.014*"member" + 0.014*"plan" + 0.014*"ask" + 0.013*"reason" + 0.013*"complet"
+
+Perplexity: -7.296226158827073
+Time for this WHOLE thing: 26.05 mins

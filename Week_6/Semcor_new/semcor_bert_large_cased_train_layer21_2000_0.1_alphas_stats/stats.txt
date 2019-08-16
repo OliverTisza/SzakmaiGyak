@@ -1,0 +1,40 @@
+Time for creating the dict and corpus: 4.12 mins
+Time for this iter: 1.98 mins
+Time for this iter: 2.54 mins
+Time for this iter: 3.16 mins
+Time for this iter: 3.49 mins
+Time for this iter: 3.66 mins
+Time for this iter: 3.84 mins
+Time for this iter: 4.06 mins
+Time for this until plot: 26.84 mins
+Topic: 0 
+Words: 0.018*"citi" + 0.014*"member" + 0.011*"week" + 0.011*"plan" + 0.011*"busi" + 0.010*"second" + 0.009*"provid" + 0.008*"surfac" + 0.008*"million" + 0.007*"support"
+Topic: 1 
+Words: 0.008*"best" + 0.008*"kind" + 0.008*"cours" + 0.007*"probabl" + 0.007*"better" + 0.007*"earli" + 0.006*"histori" + 0.006*"period" + 0.006*"usual" + 0.005*"type"
+Topic: 2 
+Words: 0.011*"power" + 0.010*"inform" + 0.009*"word" + 0.009*"valu" + 0.009*"report" + 0.008*"idea" + 0.007*"understand" + 0.007*"servic" + 0.006*"wife" + 0.006*"pictur"
+Topic: 3 
+Words: 0.014*"face" + 0.010*"voic" + 0.010*"figur" + 0.009*"mother" + 0.009*"father" + 0.008*"moment" + 0.007*"modern" + 0.007*"mere" + 0.007*"religi" + 0.007*"product"
+Topic: 4 
+Words: 0.018*"problem" + 0.015*"school" + 0.013*"question" + 0.009*"ask" + 0.009*"street" + 0.009*"day" + 0.009*"human" + 0.008*"individu" + 0.007*"piec" + 0.007*"hour"
+Topic: 5 
+Words: 0.054*"thi" + 0.045*"they" + 0.043*"there" + 0.027*"when" + 0.023*"what" + 0.021*"that" + 0.017*"then" + 0.016*"these" + 0.013*"countri" + 0.012*"with"
+Topic: 6 
+Words: 0.014*"govern" + 0.012*"offic" + 0.012*"presid" + 0.012*"group" + 0.009*"eye" + 0.008*"polit" + 0.007*"parti" + 0.007*"forc" + 0.006*"hors" + 0.006*"administr"
+Topic: 7 
+Words: 0.011*"famili" + 0.011*"church" + 0.010*"local" + 0.009*"room" + 0.008*"john" + 0.007*"away" + 0.006*"mind" + 0.006*"1960" + 0.006*"fact" + 0.005*"communist"
+Topic: 8 
+Words: 0.011*"home" + 0.010*"night" + 0.008*"hous" + 0.007*"social" + 0.004*"month" + 0.004*"societi" + 0.003*"peac" + 0.002*"popul" + 0.002*"happi" + 0.002*"vocat"
+Topic: 9 
+Words: 0.020*"program" + 0.018*"water" + 0.015*"girl" + 0.015*"music" + 0.014*"write" + 0.012*"today" + 0.011*"industri" + 0.011*"death" + 0.010*"action" + 0.010*"book"
+Topic: 10 
+Words: 0.025*"american" + 0.014*"door" + 0.011*"feet" + 0.009*"south" + 0.009*"meet" + 0.008*"friend" + 0.008*"centuri" + 0.007*"southern" + 0.006*"boat" + 0.006*"polic"
+Topic: 11 
+Words: 0.012*"want" + 0.008*"chang" + 0.008*"see" + 0.007*"appear" + 0.007*"studi" + 0.006*"consid" + 0.005*"provid" + 0.005*"indic" + 0.005*"hear" + 0.005*"receiv"
+Topic: 12 
+Words: 0.016*"area" + 0.013*"children" + 0.011*"increas" + 0.009*"requir" + 0.009*"cost" + 0.008*"town" + 0.008*"child" + 0.007*"condit" + 0.007*"situat" + 0.007*"oper"
+Topic: 13 
+Words: 0.016*"experi" + 0.015*"young" + 0.015*"light" + 0.010*"color" + 0.009*"york" + 0.008*"control" + 0.008*"sure" + 0.007*"limit" + 0.007*"feder" + 0.007*"heart"
+
+Perplexity: -7.803147014559673
+Time for this WHOLE thing: 36.88 mins
