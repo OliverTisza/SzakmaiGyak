@@ -1,0 +1,126 @@
+Time for creating the dict and corpus: 7.54 mins
+Coherence: 0.46403807994686325
+Time for this iter: 31.6 mins
+Coherence: 0.5035036100368017
+Time for this iter: 35.08 mins
+Coherence: 0.5139289359989178
+Time for this iter: 38.7 mins
+Coherence: 0.49557619633606664
+Time for this iter: 40.99 mins
+Coherence: 0.533359478821717
+Time for this iter: 52.84 mins
+Coherence: 0.5632636955971393
+Time for this iter: 87.27 mins
+Time for this until plot: 294.04 mins
+Topic: 0 
+Words: 0.000*"depict" + 0.000*"benefit" + 0.000*"face" + 0.000*"forbid" + 0.000*"parodi" + 0.000*"roil" + 0.000*"espous" + 0.000*"shingl" + 0.000*"protrud" + 0.000*"dismantl"
+Topic: 1 
+Words: 0.000*"exhibit" + 0.000*"surround" + 0.000*"uncork" + 0.000*"savor" + 0.000*"muffl" + 0.000*"spill" + 0.000*"assort" + 0.000*"permeat" + 0.000*"exempt" + 0.000*"swig"
+Topic: 2 
+Words: 0.000*"remind" + 0.000*"exhibit" + 0.000*"forbid" + 0.000*"interview" + 0.000*"discuss" + 0.000*"resign" + 0.000*"carv" + 0.000*"greet" + 0.000*"showcas" + 0.000*"overse"
+Topic: 3 
+Words: 0.000*"reposit" + 0.000*"absolv" + 0.000*"resign" + 0.000*"befal" + 0.000*"ruptur" + 0.000*"underpin" + 0.000*"fend" + 0.000*"skateboard" + 0.000*"utilis" + 0.000*"lupin"
+Topic: 4 
+Words: 0.000*"sammarai" + 0.000*"swear" + 0.000*"theoris" + 0.000*"resign" + 0.000*"vote" + 0.000*"interview" + 0.000*"doodl" + 0.000*"apport" + 0.000*"backbench" + 0.000*"shi"
+Topic: 5 
+Words: 0.000*"utilis" + 0.000*"focu" + 0.000*"dispel" + 0.000*"reopen" + 0.000*"discuss" + 0.000*"evacu" + 0.000*"town" + 0.000*"redevelop" + 0.000*"benefit" + 0.000*"refocu"
+Topic: 6 
+Words: 0.000*"brigad" + 0.000*"pick" + 0.000*"depict" + 0.000*"platoon" + 0.000*"evacu" + 0.000*"wear" + 0.000*"permit" + 0.000*"interview" + 0.000*"retak" + 0.000*"rescu"
+Topic: 7 
+Words: 0.000*"safeguard" + 0.000*"greet" + 0.000*"focu" + 0.000*"file" + 0.000*"preach" + 0.000*"scrimmag" + 0.000*"knead" + 0.000*"wear" + 0.000*"reopen" + 0.000*"anchor"
+Topic: 8 
+Words: 0.000*"exempt" + 0.000*"focu" + 0.000*"dismantl" + 0.000*"push" + 0.000*"reject" + 0.000*"refus" + 0.000*"readi" + 0.000*"evacu" + 0.000*"need" + 0.000*"overthrow"
+Topic: 9 
+Words: 0.000*"sneak" + 0.000*"interview" + 0.000*"crenel" + 0.000*"hearken" + 0.000*"focu" + 0.000*"depict" + 0.000*"reassert" + 0.000*"singular" + 0.000*"evacu" + 0.000*"splice"
+Topic: 10 
+Words: 0.000*"rule" + 0.000*"refus" + 0.000*"defeat" + 0.000*"discuss" + 0.000*"wrangl" + 0.000*"turn" + 0.000*"draw" + 0.000*"welcom" + 0.000*"reject" + 0.000*"eas"
+Topic: 11 
+Words: 0.000*"evacu" + 0.000*"flee" + 0.000*"overlay" + 0.000*"train" + 0.000*"treason" + 0.000*"diaper" + 0.000*"reject" + 0.000*"disapprov" + 0.000*"push" + 0.000*"tradit"
+Topic: 12 
+Words: 0.000*"quot" + 0.000*"discuss" + 0.000*"resign" + 0.000*"draw" + 0.000*"snare" + 0.000*"flee" + 0.000*"smuggl" + 0.000*"join" + 0.000*"file" + 0.000*"underestim"
+Topic: 13 
+Words: 0.000*"interview" + 0.000*"simulcast" + 0.000*"paraphras" + 0.000*"accomplish" + 0.000*"raini" + 0.000*"hint" + 0.000*"utilis" + 0.000*"skateboard" + 0.000*"re-ent" + 0.000*"scam"
+Topic: 14 
+Words: 0.000*"overlay" + 0.000*"subsist" + 0.000*"deck" + 0.000*"kneel" + 0.000*"redevelop" + 0.000*"testimoni" + 0.000*"swim" + 0.000*"focu" + 0.000*"disrob" + 0.000*"waft"
+Topic: 15 
+Words: 0.000*"benefit" + 0.000*"forbid" + 0.000*"quot" + 0.000*"redevelop" + 0.000*"discuss" + 0.000*"updat" + 0.000*"coppic" + 0.000*"dispel" + 0.000*"gurgl" + 0.000*"shallow"
+Topic: 16 
+Words: 0.000*"contend" + 0.000*"winch" + 0.000*"coax" + 0.000*"exempt" + 0.000*"reassert" + 0.000*"reenter" + 0.000*"redoubl" + 0.000*"flit" + 0.000*"marginalis" + 0.000*"espous"
+Topic: 17 
+Words: 0.000*"draft" + 0.000*"forbid" + 0.000*"redshirt" + 0.000*"yell" + 0.000*"amput" + 0.000*"hire" + 0.000*"foul" + 0.000*"expropri" + 0.000*"exhibit" + 0.000*"subsist"
+Topic: 18 
+Words: 0.000*"sprout" + 0.000*"wear" + 0.000*"tether" + 0.000*"build" + 0.000*"sashay" + 0.000*"shop" + 0.000*"spill" + 0.000*"hing" + 0.000*"cover" + 0.000*"stab"
+Topic: 19 
+Words: 0.000*"han" + 0.000*"georg" + 0.000*"eberl" + 0.000*"moeller" + 0.000*"snyder" + 0.000*"douw" + 0.000*"kamp" + 0.000*"andrea" + 0.000*"behl" + 0.000*"jacob"
+Topic: 20 
+Words: 0.000*"tradicion" + 0.000*"institucion" + 0.000*"consecuencia" + 0.000*"tien" + 0.000*"bien" + 0.000*"client" + 0.000*"beneficio" + 0.000*"problema" + 0.000*"unidad" + 0.000*"termino"
+Topic: 21 
+Words: 0.000*"rumbl" + 0.000*"reassert" + 0.000*"creep" + 0.000*"pre-dat" + 0.000*"disfranchis" + 0.000*"pre-ord" + 0.000*"reopen" + 0.000*"fade" + 0.000*"overfli" + 0.000*"advert"
+Topic: 22 
+Words: 0.000*"retin" + 0.000*"pigment" + 0.000*"clot" + 0.000*"hormon" + 0.000*"membran" + 0.000*"malform" + 0.000*"intestin" + 0.000*"arteri" + 0.000*"neurolog" + 0.000*"lipid"
+Topic: 23 
+Words: 0.000*"evacu" + 0.000*"break" + 0.000*"anchor" + 0.000*"contend" + 0.000*"foul" + 0.000*"seiz" + 0.000*"preach" + 0.000*"swim" + 0.000*"arriv" + 0.000*"retak"
+Topic: 24 
+Words: 0.000*"hold" + 0.000*"reject" + 0.000*"discuss" + 0.000*"practis" + 0.000*"take" + 0.000*"defeat" + 0.000*"overcom" + 0.000*"spend" + 0.000*"arriv" + 0.000*"teach"
+Topic: 25 
+Words: 0.000*"afrotrop" + 0.000*"famili" + 0.000*"demospong" + 0.000*"ovenbird" + 0.000*"moth" + 0.000*"sciurida" + 0.000*"neotrop" + 0.000*"antbird" + 0.000*"megabat" + 0.000*"emberizid"
+Topic: 26 
+Words: 0.000*"evacu" + 0.000*"reject" + 0.000*"focu" + 0.000*"remind" + 0.000*"interview" + 0.000*"overhang" + 0.000*"launch" + 0.000*"dissolv" + 0.000*"drive" + 0.000*"glisten"
+Topic: 27 
+Words: 0.000*"backbench" + 0.000*"resign" + 0.000*"exempt" + 0.000*"kneel" + 0.000*"splinter" + 0.000*"macneil" + 0.000*"exclaim" + 0.000*"sigh" + 0.000*"seiz" + 0.000*"refus"
+Topic: 28 
+Words: 0.000*"need" + 0.000*"like" + 0.000*"want" + 0.000*"think" + 0.000*"remind" + 0.000*"look" + 0.000*"requir" + 0.000*"talk" + 0.000*"turn" + 0.000*"happen"
+Topic: 29 
+Words: 0.000*"skitter" + 0.000*"focu" + 0.000*"slosh" + 0.000*"aris" + 0.000*"pooh" + 0.000*"evacu" + 0.000*"transsexu" + 0.000*"plank" + 0.000*"contend" + 0.000*"spill"
+Topic: 30 
+Words: 0.000*"depict" + 0.000*"re-equip" + 0.000*"flee" + 0.000*"spew" + 0.000*"loosen" + 0.000*"trudg" + 0.000*"shower" + 0.000*"bait" + 0.000*"pile" + 0.000*"re-ent"
+Topic: 31 
+Words: 0.000*"ele" + 0.000*"updat" + 0.000*"opcion" + 0.000*"transmitida" + 0.000*"quot" + 0.000*"subh" + 0.000*"jdiazsfchronicle.com" + 0.000*"yearend" + 0.000*"cheng" + 0.000*"nipp"
+Topic: 32 
+Words: 0.000*"contend" + 0.000*"garrison" + 0.000*"focu" + 0.000*"espous" + 0.000*"swim" + 0.000*"platoon" + 0.000*"disagre" + 0.000*"exempt" + 0.000*"embark" + 0.000*"utilis"
+Topic: 33 
+Words: 0.000*"reject" + 0.000*"freez" + 0.000*"airdrop" + 0.000*"teach" + 0.000*"draw" + 0.000*"vote" + 0.000*"spearhead" + 0.000*"contend" + 0.000*"award" + 0.000*"inflict"
+Topic: 34 
+Words: 0.000*"race" + 0.000*"take" + 0.000*"defi" + 0.000*"zealand" + 0.000*"date" + 0.000*"trail" + 0.000*"defeat" + 0.000*"champion" + 0.000*"happen" + 0.000*"romp"
+Topic: 35 
+Words: 0.000*"forbid" + 0.000*"argu" + 0.000*"wear" + 0.000*"contend" + 0.000*"reject" + 0.000*"interview" + 0.000*"scrunch" + 0.000*"lack" + 0.000*"permeat" + 0.000*"rescind"
+Topic: 36 
+Words: 0.000*"contend" + 0.000*"like" + 0.000*"skateboard" + 0.000*"undermin" + 0.000*"mention" + 0.000*"proclaim" + 0.000*"show" + 0.000*"interview" + 0.000*"yearn" + 0.000*"disapprov"
+Topic: 37 
+Words: 0.000*"culmin" + 0.000*"wear" + 0.000*"contrast" + 0.000*"climax" + 0.000*"depict" + 0.000*"display" + 0.000*"symbolis" + 0.000*"tradit" + 0.000*"evok" + 0.000*"exhibit"
+Topic: 38 
+Words: 0.000*"remind" + 0.000*"watermark" + 0.000*"redoubl" + 0.000*"muffl" + 0.000*"benefit" + 0.000*"undermin" + 0.000*"stifl" + 0.000*"tarnish" + 0.000*"harangu" + 0.000*"echo"
+Topic: 39 
+Words: 0.000*"speed" + 0.000*"drive" + 0.000*"explod" + 0.000*"chauffeur" + 0.000*"attempt" + 0.000*"overtak" + 0.000*"crash" + 0.000*"shoot" + 0.000*"apprehend" + 0.000*"swerv"
+Topic: 40 
+Words: 0.000*"queue" + 0.000*"trim" + 0.000*"break" + 0.000*"forbid" + 0.000*"earn" + 0.000*"preach" + 0.000*"tile" + 0.000*"send" + 0.000*"focu" + 0.000*"draw"
+Topic: 41 
+Words: 0.000*"benefit" + 0.000*"decreas" + 0.000*"hormon" + 0.000*"exhibit" + 0.000*"crop" + 0.000*"wear" + 0.000*"contend" + 0.000*"arriv" + 0.000*"focu" + 0.000*"train"
+Topic: 42 
+Words: 0.000*"144.4" + 0.000*"throng" + 0.000*"tugrik" + 0.000*"view" + 0.000*"319.1" + 0.000*"remind" + 0.000*"sicken" + 0.000*"foul" + 0.000*"crane" + 0.000*"hectar"
+Topic: 43 
+Words: 0.000*"stifl" + 0.000*"overtak" + 0.000*"swelter" + 0.000*"refus" + 0.000*"defi" + 0.000*"preclud" + 0.000*"flood" + 0.000*"flicker" + 0.000*"hinder" + 0.000*"veto"
+Topic: 44 
+Words: 0.000*"sacrament" + 0.000*"focu" + 0.000*"interview" + 0.000*"retak" + 0.000*"crash-land" + 0.000*"wear" + 0.000*"cover" + 0.000*"exhibit" + 0.000*"clasp" + 0.000*"splint"
+Topic: 45 
+Words: 0.000*"spend" + 0.000*"accomplish" + 0.000*"date" + 0.000*"turn" + 0.000*"proceed" + 0.000*"focu" + 0.000*"file" + 0.000*"resign" + 0.000*"vote" + 0.000*"evacu"
+Topic: 46 
+Words: 0.000*"hassan" + 0.000*"hakim" + 0.000*"reject" + 0.000*"hadi" + 0.000*"cleric" + 0.000*"emir" + 0.000*"overse" + 0.000*"exempt" + 0.000*"rule" + 0.000*"focu"
+Topic: 47 
+Words: 0.000*"re-establish" + 0.000*"carv" + 0.000*"exhibit" + 0.000*"pigeonhol" + 0.000*"echo" + 0.000*"simulcast" + 0.000*"underestim" + 0.000*"skateboard" + 0.000*"evacu" + 0.000*"anchor"
+Topic: 48 
+Words: 0.000*"exempt" + 0.000*"remind" + 0.000*"requir" + 0.000*"stick" + 0.000*"tighten" + 0.000*"benefit" + 0.000*"break" + 0.000*"creep" + 0.000*"hint" + 0.000*"queue"
+Topic: 49 
+Words: 0.000*"discuss" + 0.000*"frau" + 0.000*"chant" + 0.000*"fade" + 0.000*"sneak" + 0.000*"enthral" + 0.000*"exhibit" + 0.000*"evacu" + 0.000*"die" + 0.000*"airdrop"
+Topic: 50 
+Words: 0.000*"build" + 0.000*"reject" + 0.000*"contend" + 0.000*"requir" + 0.000*"depict" + 0.000*"focu" + 0.000*"unveil" + 0.000*"impos" + 0.000*"disband" + 0.000*"forbid"
+Topic: 51 
+Words: 0.000*"arriv" + 0.000*"focu" + 0.000*"collaps" + 0.000*"file" + 0.000*"contend" + 0.000*"suborn" + 0.000*"exempt" + 0.000*"loosen" + 0.000*"evacu" + 0.000*"shoot"
+Topic: 52 
+Words: 0.000*"cigar" + 0.000*"evacu" + 0.000*"reopen" + 0.000*"refus" + 0.000*"instanti" + 0.000*"lunch" + 0.000*"nudg" + 0.000*"whisk" + 0.000*"upend" + 0.000*"crossbre"
+Topic: 53 
+Words: 0.000*"focu" + 0.000*"socialis" + 0.000*"reopen" + 0.000*"reshuffl" + 0.000*"forbid" + 0.000*"co-opt" + 0.000*"refocu" + 0.000*"evacu" + 0.000*"interview" + 0.000*"unveil"
+Topic: 54 
+Words: 0.000*"swim" + 0.000*"accomplish" + 0.000*"parlay" + 0.000*"contend" + 0.000*"reject" + 0.000*"franc" + 0.000*"scuttl" + 0.000*"expung" + 0.000*"discuss" + 0.000*"overse"
+Topic: 55 
+Words: 0.000*"drink" + 0.000*"creep" + 0.000*"roost" + 0.000*"ladl" + 0.000*"cuss" + 0.000*"protrud" + 0.000*"carv" + 0.000*"revet" + 0.000*"disband" + 0.000*"rins"

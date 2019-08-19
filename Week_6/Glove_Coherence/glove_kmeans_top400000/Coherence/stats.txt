@@ -1,0 +1,219 @@
+Time for creating the dict and corpus: 4.16 mins
+Coherence: -6.597915398396052
+Time for this iter: 17.93 mins
+Coherence: -6.33598476997012
+Time for this iter: 19.27 mins
+Coherence: -6.148810412696308
+Time for this iter: 20.66 mins
+Coherence: -5.962412219966635
+Time for this iter: 21.55 mins
+Coherence: -5.552279833062718
+Time for this iter: 26.81 mins
+Coherence: -5.099534299429444
+Time for this iter: 35.07 mins
+Time for this until plot: 145.48 mins
+Topic: 0 
+Words: 0.001*"educ" + 0.000*"employ" + 0.000*"victim" + 0.000*"recruit" + 0.000*"congreg" + 0.000*"immigr" + 0.000*"labor" + 0.000*"emigr" + 0.000*"pension" + 0.000*"benefit"
+Topic: 1 
+Words: 0.001*"ventral" + 0.001*"dorsal" + 0.000*"birdi" + 0.000*"later" + 0.000*"caddi" + 0.000*"maxilla" + 0.000*"caudal" + 0.000*"sutur" + 0.000*"protrud" + 0.000*"montgomeri"
+Topic: 2 
+Words: 0.001*"hearken" + 0.001*"hark" + 0.001*"herd" + 0.000*"eleph" + 0.000*"harken" + 0.000*"boar" + 0.000*"breed" + 0.000*"hunt" + 0.000*"anim" + 0.000*"rabbit"
+Topic: 3 
+Words: 0.001*"two-stori" + 0.001*"storey" + 0.001*"three-stori" + 0.001*"rifl" + 0.001*"two-storey" + 0.001*"portico" + 0.001*"turret" + 0.001*"three-storey" + 0.001*"crenel" + 0.001*"gabl"
+Topic: 4 
+Words: 0.001*"refus" + 0.000*"oblig" + 0.000*"begin" + 0.000*"fail" + 0.000*"decid" + 0.000*"persuad" + 0.000*"disband" + 0.000*"hesit" + 0.000*"declar" + 0.000*"abandon"
+Topic: 5 
+Words: 0.001*"investig" + 0.001*"record" + 0.001*"examin" + 0.000*"tap" + 0.000*"videotap" + 0.000*"interrog" + 0.000*"digit" + 0.000*"document" + 0.000*"decod" + 0.000*"alleg"
+Topic: 6 
+Words: 0.001*"investig" + 0.000*"research" + 0.000*"institut" + 0.000*"poll" + 0.000*"survey" + 0.000*"epidemiolog" + 0.000*"dermatolog" + 0.000*"biolog" + 0.000*"urolog" + 0.000*"conduct"
+Topic: 7 
+Words: 0.000*"dublin" + 0.000*"gull" + 0.000*"heron" + 0.000*"disengag" + 0.000*"cormor" + 0.000*"shearwat" + 0.000*"isra" + 0.000*"ireland" + 0.000*"limerick" + 0.000*"plover"
+Topic: 8 
+Words: 0.000*"wall" + 0.000*"floor" + 0.000*"room" + 0.000*"renov" + 0.000*"camp" + 0.000*"tent" + 0.000*"wrap" + 0.000*"panel" + 0.000*"accommod" + 0.000*"stack"
+Topic: 9 
+Words: 0.001*"oxid" + 0.001*"carbon" + 0.000*"sultan" + 0.000*"caliph" + 0.000*"acid" + 0.000*"persian" + 0.000*"carboxyl" + 0.000*"arab" + 0.000*"secret" + 0.000*"precipit"
+Topic: 10 
+Words: 0.001*"devalu" + 0.000*"sentenc" + 0.000*"depreci" + 0.000*"indict" + 0.000*"judg" + 0.000*"prosecut" + 0.000*"plead" + 0.000*"yuri" + 0.000*"appreci" + 0.000*"revalu"
+Topic: 11 
+Words: 0.001*"engin" + 0.001*"encod" + 0.001*"initi" + 0.001*"encrypt" + 0.000*"turbocharg" + 0.000*"inflect" + 0.000*"liter" + 0.000*"obtain" + 0.000*"two-strok" + 0.000*"18,333"
+Topic: 12 
+Words: 0.001*"excav" + 0.001*"exhum" + 0.001*"unearth" + 0.001*"buri" + 0.001*"cremat" + 0.001*"reburi" + 0.001*"retriev" + 0.001*"wreck" + 0.001*"uncov" + 0.001*"dispos"
+Topic: 13 
+Words: 0.001*"command" + 0.001*"deploy" + 0.001*"regiment" + 0.001*"detach" + 0.001*"battalion" + 0.000*"oper" + 0.000*"mobil" + 0.000*"emigr" + 0.000*"brigad" + 0.000*"patrol"
+Topic: 14 
+Words: 0.001*"contamin" + 0.001*"poison" + 0.001*"pollut" + 0.001*"toxic" + 0.001*"inhal" + 0.001*"ingest" + 0.000*"carcinogen" + 0.000*"dioxin" + 0.000*"irrit" + 0.000*"pesticid"
+Topic: 15 
+Words: 0.001*"birdi" + 0.001*"diagnos" + 0.001*"bogey" + 0.001*"putt" + 0.001*"suffer" + 0.001*"afflict" + 0.001*"diabet" + 0.001*"ill" + 0.001*"cure" + 0.001*"hole"
+Topic: 16 
+Words: 0.001*"recit" + 0.001*"poem" + 0.000*"vers" + 0.000*"stanza" + 0.000*"paraphras" + 0.000*"epigram" + 0.000*"psalm" + 0.000*"hymn" + 0.000*"diegan" + 0.000*"poetic"
+Topic: 17 
+Words: 0.001*"barbar" + 0.001*"evoc" + 0.001*"preposter" + 0.001*"ludicr" + 0.001*"outrag" + 0.001*"surreal" + 0.001*"contriv" + 0.001*"hilari" + 0.001*"clich" + 0.001*"sentiment"
+Topic: 18 
+Words: 0.000*"colombian" + 0.000*"venezuelan" + 0.000*"honduran" + 0.000*"guatemalan" + 0.000*"ugandan" + 0.000*"nicaraguan" + 0.000*"peruvian" + 0.000*"nigerian" + 0.000*"bolivian" + 0.000*"kenyan"
+Topic: 19 
+Words: 0.001*"film" + 0.001*"anim" + 0.001*"present" + 0.000*"filmmak" + 0.000*"produc" + 0.000*"premier" + 0.000*"dramat" + 0.000*"direct" + 0.000*"adapt" + 0.000*"screenwrit"
+Topic: 20 
+Words: 0.001*"vaccin" + 0.001*"infect" + 0.001*"immun" + 0.001*"pathogen" + 0.000*"prevent" + 0.000*"inocul" + 0.000*"abort" + 0.000*"outbreak" + 0.000*"epidem" + 0.000*"parasit"
+Topic: 21 
+Words: 0.001*"coordin" + 0.001*"implement" + 0.001*"integr" + 0.001*"fulfil" + 0.001*"assist" + 0.001*"facilit" + 0.001*"initi" + 0.001*"maintain" + 0.001*"collabor" + 0.001*"optim"
+Topic: 22 
+Words: 0.001*"mountain" + 0.001*"1670" + 0.000*"candi" + 0.000*"caramel" + 0.000*"chocol" + 0.000*"1680" + 0.000*"tart" + 0.000*"frost" + 0.000*"cooki" + 0.000*"cake"
+Topic: 23 
+Words: 0.001*"flower" + 0.001*"blossom" + 0.001*"bloom" + 0.001*"plant" + 0.001*"prune" + 0.001*"tree" + 0.001*"filli" + 0.001*"sire" + 0.001*"garden" + 0.001*"hors"
+Topic: 24 
+Words: 0.001*"bowl" + 0.000*"bowler" + 0.000*"dismiss" + 0.000*"wicket" + 0.000*"stump" + 0.000*"chronicl" + 0.000*"seamer" + 0.000*"park" + 0.000*"2min" + 0.000*"spinner"
+Topic: 25 
+Words: 0.001*"sink" + 0.001*"speak" + 0.001*"ship" + 0.001*"launder" + 0.000*"sail" + 0.000*"privat" + 0.000*"pirat" + 0.000*"addict" + 0.000*"torpedo" + 0.000*"counterfeit"
+Topic: 26 
+Words: 0.001*"implant" + 0.001*"orchestr" + 0.001*"compos" + 0.001*"transplant" + 0.001*"concerto" + 0.001*"arteri" + 0.001*"symphoni" + 0.001*"conduct" + 0.001*"intestin" + 0.001*"sonata"
+Topic: 27 
+Words: 0.001*"fish" + 0.000*"scallop" + 0.000*"shrimp" + 0.000*"whale" + 0.000*"trawl" + 0.000*"fillet" + 0.000*"crab" + 0.000*"lobster" + 0.000*"fisheri" + 0.000*"catch"
+Topic: 28 
+Words: 0.001*"import" + 0.001*"export" + 0.000*"manufactur" + 0.000*"hermida" + 0.000*"supplier" + 0.000*"lunin" + 0.000*"suppli" + 0.000*"econom" + 0.000*"dispos" + 0.000*"peveril"
+Topic: 29 
+Words: 0.001*"topolog" + 0.001*"algebra" + 0.001*"multipl" + 0.000*"equival" + 0.000*"integr" + 0.000*"commut" + 0.000*"isomorph" + 0.000*"maxim" + 0.000*"differenti" + 0.000*"invari"
+Topic: 30 
+Words: 0.002*"shout" + 0.001*"cheer" + 0.001*"shriek" + 0.001*"scream" + 0.001*"yell" + 0.001*"exclaim" + 0.001*"whisper" + 0.001*"clap" + 0.001*"squeal" + 0.001*"chant"
+Topic: 31 
+Words: 0.001*"incub" + 0.001*"parasit" + 0.001*"germin" + 0.001*"pollin" + 0.001*"pupat" + 0.001*"larva" + 0.001*"hatch" + 0.001*"overwint" + 0.001*"fertil" + 0.001*"ovul"
+Topic: 32 
+Words: 0.000*"inter" + 0.000*"problema" + 0.000*"otro" + 0.000*"costo" + 0.000*"mucho" + 0.000*"acuerdo" + 0.000*"gobierno" + 0.000*"client" + 0.000*"quien" + 0.000*"cierto"
+Topic: 33 
+Words: 0.001*"decor" + 0.001*"cloth" + 0.001*"dress" + 0.001*"wear" + 0.000*"fabric" + 0.000*"knit" + 0.000*"gown" + 0.000*"sequin" + 0.000*"weav" + 0.000*"skirt"
+Topic: 34 
+Words: 0.002*"shrink" + 0.001*"dwindl" + 0.001*"diminish" + 0.001*"enrol" + 0.001*"swell" + 0.001*"decreas" + 0.001*"outstrip" + 0.001*"expand" + 0.001*"grow" + 0.001*"deterior"
+Topic: 35 
+Words: 0.000*"murder" + 0.000*"kidnap" + 0.000*"slay" + 0.000*"feder" + 0.000*"assassin" + 0.000*"hijack" + 0.000*"terror" + 0.000*"execut" + 0.000*"abduct" + 0.000*"kill"
+Topic: 36 
+Words: 0.001*"commun" + 0.001*"interconnect" + 0.001*"liber" + 0.001*"deport" + 0.001*"access" + 0.001*"escap" + 0.001*"global" + 0.000*"intern" + 0.000*"tortur" + 0.000*"upload"
+Topic: 37 
+Words: 0.001*"critic" + 0.001*"celebr" + 0.001*"resent" + 0.001*"quarrel" + 0.001*"rhapsod" + 0.001*"scorn" + 0.001*"obsess" + 0.001*"denounc" + 0.001*"hesit" + 0.000*"rumin"
+Topic: 38 
+Words: 0.001*"drink" + 0.001*"bottl" + 0.001*"brew" + 0.001*"distil" + 0.001*"tast" + 0.001*"cabernet" + 0.001*"chardonnay" + 0.001*"winemak" + 0.001*"zinfandel" + 0.001*"beer"
+Topic: 39 
+Words: 0.001*"calcul" + 0.001*"orbit" + 0.001*"measur" + 0.001*"estim" + 0.001*"observ" + 0.001*"comput" + 0.001*"predict" + 0.001*"correl" + 0.001*"depend" + 0.001*"oscil"
+Topic: 40 
+Words: 0.001*"ambl" + 0.001*"trudg" + 0.001*"meander" + 0.001*"chug" + 0.001*"plod" + 0.001*"traips" + 0.001*"slink" + 0.001*"stroll" + 0.001*"saunter" + 0.001*"hurtl"
+Topic: 41 
+Words: 0.000*"demonstr" + 0.000*"protest" + 0.000*"dispers" + 0.000*"attack" + 0.000*"scuffl" + 0.000*"clash" + 0.000*"firebomb" + 0.000*"burn" + 0.000*"barricad" + 0.000*"hurl"
+Topic: 42 
+Words: 0.000*"defend" + 0.000*"holland" + 0.000*"willem" + 0.000*"presid" + 0.000*"vincent" + 0.000*"maarten" + 0.000*"liber" + 0.000*"bagabandi" + 0.000*"mihali" + 0.000*"ann"
+Topic: 43 
+Words: 0.001*"differ" + 0.000*"refer" + 0.000*"associ" + 0.000*"origin" + 0.000*"special" + 0.000*"consist" + 0.000*"order" + 0.000*"correspond" + 0.000*"select" + 0.000*"identifi"
+Topic: 44 
+Words: 0.000*"dael" + 0.000*"ashra" + 0.000*"thoma" + 0.000*"hamm" + 0.000*"164.1" + 0.000*"112.9" + 0.000*"slovak" + 0.000*"114.9" + 0.000*"doorn" + 0.000*"ferenc"
+Topic: 45 
+Words: 0.000*"invest" + 0.000*"unload" + 0.000*"manag" + 0.000*"profit" + 0.000*"load" + 0.000*"privat" + 0.000*"cart" + 0.000*"truck" + 0.000*"acquir" + 0.000*"market"
+Topic: 46 
+Words: 0.001*"restrict" + 0.001*"violat" + 0.001*"prohibit" + 0.001*"enforc" + 0.001*"limit" + 0.001*"stipul" + 0.001*"regul" + 0.001*"impos" + 0.001*"amend" + 0.001*"forbid"
+Topic: 47 
+Words: 0.001*"publish" + 0.000*"illustr" + 0.000*"edit" + 0.000*"reprint" + 0.000*"compil" + 0.000*"annot" + 0.000*"write" + 0.000*"archiv" + 0.000*"catalogu" + 0.000*"translat"
+Topic: 48 
+Words: 0.000*"speak" + 0.000*"comment" + 0.000*"brief" + 0.000*"medic" + 0.000*"announc" + 0.000*"consult" + 0.000*"suggest" + 0.000*"offici" + 0.000*"confer" + 0.000*"inform"
+Topic: 49 
+Words: 0.000*"50-year" + 0.000*"paul" + 0.000*"21-year" + 0.000*"25-year" + 0.000*"40-year" + 0.000*"19-year" + 0.000*"22-year" + 0.000*"18-year" + 0.000*"17-year" + 0.000*"1:09"
+Topic: 50 
+Words: 0.001*"miner" + 0.000*"refin" + 0.000*"mine" + 0.000*"extract" + 0.000*"insurg" + 0.000*"exploit" + 0.000*"milit" + 0.000*"quarri" + 0.000*"smelt" + 0.000*"metal"
+Topic: 51 
+Words: 0.000*"volley" + 0.000*"consult" + 0.000*"backhand" + 0.000*"offici" + 0.000*"angl" + 0.000*"bounc" + 0.000*"rotat" + 0.000*"dribbl" + 0.000*"nose" + 0.000*"forehand"
+Topic: 52 
+Words: 0.001*"negoti" + 0.000*"mediat" + 0.000*"restart" + 0.000*"resolv" + 0.000*"cort" + 0.000*"dialogu" + 0.000*"roja" + 0.000*"casa" + 0.000*"fuent" + 0.000*"plant"
+Topic: 53 
+Words: 0.001*"philosoph" + 0.001*"activ" + 0.001*"posit" + 0.001*"mutat" + 0.001*"phosphoryl" + 0.001*"determin" + 0.000*"encod" + 0.000*"metaphys" + 0.000*"phenotyp" + 0.000*"human"
+Topic: 54 
+Words: 0.001*"teleport" + 0.001*"decepticon" + 0.001*"imag" + 0.001*"mutant" + 0.001*"autobot" + 0.001*"wrestl" + 0.001*"telepath" + 0.001*"supervillain" + 0.001*"vampir" + 0.000*"dalek"
+Topic: 55 
+Words: 0.001*"instrument" + 0.000*"guitar" + 0.000*"synthes" + 0.000*"drum" + 0.000*"percuss" + 0.000*"strum" + 0.000*"tune" + 0.000*"vocal" + 0.000*"riff" + 0.000*"synthesis"
+Topic: 56 
+Words: 0.001*"vertebr" + 0.001*"fossil" + 0.001*"reptil" + 0.001*"carnivor" + 0.001*"mammal" + 0.001*"disord" + 0.000*"invertebr" + 0.000*"gastropod" + 0.000*"morpholog" + 0.000*"arthropod"
+Topic: 57 
+Words: 0.001*"zealand" + 0.001*"16-yard" + 0.001*"12-yard" + 0.001*"duchi" + 0.001*"jerseyan" + 0.001*"fulfil" + 0.001*"netherland" + 0.001*"10-yard" + 0.001*"england" + 0.000*"margrav"
+Topic: 58 
+Words: 0.001*"re-issu" + 0.001*"re-releas" + 0.001*"label" + 0.000*"twin-engin" + 0.000*"medit" + 0.000*"releas" + 0.000*"reissu" + 0.000*"record" + 0.000*"re-record" + 0.000*"two-seat"
+Topic: 59 
+Words: 0.001*"choreograph" + 0.000*"ballet" + 0.000*"danc" + 0.000*"grassland" + 0.000*"forest" + 0.000*"troup" + 0.000*"perform" + 0.000*"acrobat" + 0.000*"woodland" + 0.000*"heathland"
+Topic: 60 
+Words: 0.001*"lubavitch" + 0.001*"yeshiva" + 0.001*"nation" + 0.000*"3.265" + 0.000*"hasid" + 0.000*"rear-engin" + 0.000*"rebb" + 0.000*"80-67" + 0.000*"breslov" + 0.000*"teton"
+Topic: 61 
+Words: 0.000*"uninstal" + 0.000*"bush" + 0.000*"georg" + 0.000*"kroo" + 0.000*"werneck" + 0.000*"wayt" + 0.000*"hick" + 0.000*"toom" + 0.000*"kohr" + 0.000*"brazil"
+Topic: 62 
+Words: 0.001*"union" + 0.000*"take" + 0.000*"strike" + 0.000*"start" + 0.000*"come" + 0.000*"begin" + 0.000*"restaur" + 0.000*"fast" + 0.000*"franchis" + 0.000*"desktop"
+Topic: 63 
+Words: 0.001*"evangel" + 0.001*"pastor" + 0.001*"congreg" + 0.001*"canon" + 0.001*"consecr" + 0.000*"patriarch" + 0.000*"worship" + 0.000*"anglican" + 0.000*"church" + 0.000*"christian"
+Topic: 64 
+Words: 0.001*"know" + 0.001*"deduct" + 0.001*"think" + 0.001*"forget" + 0.001*"imagin" + 0.000*"happen" + 0.000*"wonder" + 0.000*"blurt" + 0.000*"pretend" + 0.000*"reimburs"
+Topic: 65 
+Words: 0.001*"adapt" + 0.001*"dam" + 0.001*"elect" + 0.001*"pollut" + 0.000*"irrig" + 0.000*"flood" + 0.000*"channel" + 0.000*"consist" + 0.000*"drain" + 0.000*"overflow"
+Topic: 66 
+Words: 0.000*"dice" + 0.000*"onion" + 0.000*"saut" + 0.000*"shallot" + 0.000*"cucumb" + 0.000*"chili" + 0.000*"blanch" + 0.000*"slice" + 0.000*"jalapeno" + 0.000*"radish"
+Topic: 67 
+Words: 0.001*"air" + 0.001*"broadcast" + 0.001*"ligament" + 0.001*"disloc" + 0.001*"sprain" + 0.001*"tendon" + 0.001*"fractur" + 0.001*"televis" + 0.001*"program" + 0.001*"syndic"
+Topic: 68 
+Words: 0.001*"misspel" + 0.001*"transliter" + 0.001*"deriv" + 0.001*"outcrop" + 0.001*"abbrevi" + 0.000*"pronounc" + 0.000*"spell" + 0.000*"misinterpret" + 0.000*"thank" + 0.000*"incompet"
+Topic: 69 
+Words: 0.001*"borrow" + 0.001*"repay" + 0.001*"insur" + 0.001*"default" + 0.000*"equal" + 0.000*"liquid" + 0.000*"refin" + 0.000*"retail" + 0.000*"mortgag" + 0.000*"origin"
+Topic: 70 
+Words: 0.001*"kayak" + 0.001*"bike" + 0.001*"snowboard" + 0.001*"snowmobil" + 0.001*"cano" + 0.000*"skateboard" + 0.000*"hike" + 0.000*"haut" + 0.000*"adventur" + 0.000*"mountain"
+Topic: 71 
+Words: 0.001*"enrol" + 0.001*"graduat" + 0.001*"corrobor" + 0.001*"educ" + 0.001*"refut" + 0.001*"lectur" + 0.001*"contradict" + 0.001*"substanti" + 0.001*"doctor" + 0.001*"teach"
+Topic: 72 
+Words: 0.001*"final" + 0.000*"finalis" + 0.000*"propos" + 0.000*"initi" + 0.000*"formal" + 0.000*"qualifi" + 0.000*"postpon" + 0.000*"elimin" + 0.000*"phonem" + 0.000*"revis"
+Topic: 73 
+Words: 0.001*"travel" + 0.001*"ooz" + 0.001*"drip" + 0.001*"spew" + 0.000*"seep" + 0.000*"cancel" + 0.000*"smell" + 0.000*"billow" + 0.000*"condens" + 0.000*"hijack"
+Topic: 74 
+Words: 0.001*"award" + 0.001*"liven" + 0.001*"tidi" + 0.001*"jazz" + 0.001*"divvi" + 0.001*"gussi" + 0.001*"nomin" + 0.001*"bulk" + 0.001*"fess" + 0.001*"cozi"
+Topic: 75 
+Words: 0.001*"photograph" + 0.000*"a340-600" + 0.000*"a320" + 0.000*"a330-300" + 0.000*"777-300er" + 0.000*"a340-300" + 0.000*"dreamlin" + 0.000*"747-400" + 0.000*"737-700" + 0.000*"737-800"
+Topic: 76 
+Words: 0.001*"illumin" + 0.001*"glow" + 0.001*"airlin" + 0.001*"color" + 0.001*"light" + 0.001*"fluoresc" + 0.000*"shin" + 0.000*"flicker" + 0.000*"colour" + 0.000*"twinkl"
+Topic: 77 
+Words: 0.001*"ein" + 0.001*"recht" + 0.001*"unser" + 0.001*"gott" + 0.000*"bericht" + 0.000*"leben" + 0.000*"golden" + 0.000*"litig" + 0.000*"jahrhundert" + 0.000*"nicht"
+Topic: 78 
+Words: 0.001*"transmut" + 0.001*"segu" + 0.001*"subdivid" + 0.001*"delv" + 0.001*"shoehorn" + 0.001*"morph" + 0.001*"degener" + 0.001*"devolv" + 0.001*"metamorphos" + 0.001*"goad"
+Topic: 79 
+Words: 0.001*"cultiv" + 0.001*"harvest" + 0.001*"actuat" + 0.001*"lubric" + 0.000*"propel" + 0.000*"mechan" + 0.000*"crop" + 0.000*"brake" + 0.000*"improvis" + 0.000*"adjust"
+Topic: 80 
+Words: 0.000*"1820" + 0.000*"1790" + 0.000*"prove" + 0.000*"1840" + 0.000*"reason" + 0.000*"1780" + 0.000*"1810" + 0.000*"impress" + 0.000*"respect" + 0.000*"toler"
+Topic: 81 
+Words: 0.000*"reddi" + 0.000*"chakravarti" + 0.000*"tram" + 0.000*"double-deck" + 0.000*"commut" + 0.000*"derail" + 0.000*"singh" + 0.000*"chaudhari" + 0.000*"train" + 0.000*"kishor"
+Topic: 82 
+Words: 0.001*"co-host" + 0.000*"host" + 0.000*"f-16" + 0.000*"f-15" + 0.000*"emce" + 0.000*"mayor" + 0.000*"f-14" + 0.000*"f-18" + 0.000*"helicopt" + 0.000*"transport"
+Topic: 83 
+Words: 0.001*"hospit" + 0.000*"german" + 0.000*"johann" + 0.000*"counter-terror" + 0.000*"enforc" + 0.000*"convalesc" + 0.000*"stephan" + 0.000*"medic" + 0.000*"inform" + 0.000*"wilhelm"
+Topic: 84 
+Words: 0.001*"cook" + 0.001*"roast" + 0.000*"grill" + 0.000*"stew" + 0.000*"tast" + 0.000*"bake" + 0.000*"fri" + 0.000*"flavor" + 0.000*"spoon" + 0.000*"sauc"
+Topic: 85 
+Words: 0.001*"symbol" + 0.001*"adorn" + 0.001*"color" + 0.001*"depict" + 0.001*"flag" + 0.000*"banner" + 0.000*"festoon" + 0.000*"bear" + 0.000*"colour" + 0.000*"signifi"
+Topic: 86 
+Words: 0.001*"fixat" + 0.001*"chart" + 0.001*"imping" + 0.001*"depend" + 0.001*"subsist" + 0.001*"encroach" + 0.000*"skimp" + 0.000*"prey" + 0.000*"piggyback" + 0.000*"peak"
+Topic: 87 
+Words: 0.001*"paint" + 0.001*"homer" + 0.001*"exhibit" + 0.001*"outfield" + 0.001*"pitch" + 0.001*"infield" + 0.001*"impressionist" + 0.001*"hitter" + 0.001*"sculptur" + 0.001*"bunt"
+Topic: 88 
+Words: 0.001*"achiev" + 0.001*"accomplish" + 0.001*"endors" + 0.001*"boast" + 0.001*"tout" + 0.001*"marvel" + 0.001*"success" + 0.001*"admir" + 0.000*"surpass" + 0.000*"reap"
+Topic: 89 
+Words: 0.001*"quarterback" + 0.000*"intercept" + 0.000*"rebound" + 0.000*"offens" + 0.000*"coup" + 0.000*"drive" + 0.000*"fumbl" + 0.000*"lineback" + 0.000*"punt" + 0.000*"defens"
+Topic: 90 
+Words: 0.001*"manag" + 0.001*"inflect" + 0.001*"invest" + 0.001*"suffix" + 0.001*"noun" + 0.001*"conjug" + 0.001*"plural" + 0.000*"fund" + 0.000*"participl" + 0.000*"preposit"
+Topic: 91 
+Words: 0.001*"senat" + 0.000*"italian" + 0.000*"lombardi" + 0.000*"stefano" + 0.000*"100.47" + 0.000*"14.29" + 0.000*"giovanni" + 0.000*"consul" + 0.000*"maniu" + 0.000*"valeriu"
+Topic: 92 
+Words: 0.000*"lupin" + 0.000*"harthi" + 0.000*"jumaili" + 0.000*"maliki" + 0.000*"dulaimi" + 0.000*"aswani" + 0.000*"samarai" + 0.000*"shiit" + 0.000*"sammarai" + 0.000*"khuzai"
+Topic: 93 
+Words: 0.000*"villag" + 0.000*"play" + 0.000*"innerv" + 0.000*"town" + 0.000*"colon" + 0.000*"drachma" + 0.000*"marin" + 0.000*"resid" + 0.000*"beledweyn" + 0.000*"portray"
+Topic: 94 
+Words: 0.001*"grih" + 0.000*"mahr" + 0.000*"parti" + 0.000*"veet" + 0.000*"shuh" + 0.000*"wehl" + 0.000*"khaledi" + 0.000*"zehl" + 0.000*"bayl" + 0.000*"kah"
+Topic: 95 
+Words: 0.001*"elect" + 0.001*"vote" + 0.001*"elector" + 0.001*"nomin" + 0.001*"democrat" + 0.001*"ballot" + 0.001*"contest" + 0.001*"legisl" + 0.000*"candid" + 0.000*"constitu"
+Topic: 96 
+Words: 0.001*"ration" + 0.000*"reorgan" + 0.000*"initi" + 0.000*"restructur" + 0.000*"liber" + 0.000*"transform" + 0.000*"activ" + 0.000*"litig" + 0.000*"reconfigur" + 0.000*"privat"
+Topic: 97 
+Words: 0.000*"season" + 0.000*"gust" + 0.000*"unseason" + 0.000*"morn" + 0.000*"weekday" + 0.000*"even" + 0.000*"lubelski" + 0.000*"rain" + 0.000*"monsoon" + 0.000*"forecast"
+Topic: 98 
+Words: 0.000*"engadin" + 0.000*"tributari" + 0.000*"murg" + 0.000*"confluenc" + 0.000*"euro193" + 0.000*"arax" + 0.000*"legisl" + 0.000*"coln" + 0.000*"bli" + 0.000*"towi"
+Topic: 99 
+Words: 0.000*"island" + 0.000*"overthrow" + 0.000*"reliev" + 0.000*"costar" + 0.000*"moham" + 0.000*"kuril" + 0.000*"oust" + 0.000*"star" + 0.000*"archipelago" + 0.000*"faro"
+
+Perplexity: -10.987536628914256
+
+Coherence: -5.099534299429444
+Time for this WHOLE thing: 184.19 mins

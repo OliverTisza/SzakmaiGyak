@@ -1,0 +1,219 @@
+Time for creating the dict and corpus: 4.1 mins
+Coherence: 0.18658959645668896
+Time for this iter: 21.92 mins
+Coherence: 0.25183187685069314
+Time for this iter: 26.93 mins
+Coherence: 0.30633121964784565
+Time for this iter: 29.75 mins
+Coherence: 0.3557663488353656
+Time for this iter: 31.62 mins
+Coherence: 0.42223107441253005
+Time for this iter: 41.25 mins
+Coherence: 0.433227035340958
+Time for this iter: 51.02 mins
+Time for this until plot: 206.64 mins
+Topic: 0 
+Words: 0.112*"reason" + 0.096*"effect" + 0.061*"mother" + 0.040*"father" + 0.016*"mari" + 0.014*"parent" + 0.013*"adequ" + 0.012*"influenc" + 0.012*"proper" + 0.011*"rachel"
+Topic: 1 
+Words: 0.078*"turn" + 0.077*"local" + 0.053*"high" + 0.037*"materi" + 0.036*"common" + 0.015*"moreov" + 0.015*"frequent" + 0.015*"also" + 0.014*"higher" + 0.011*"occasion"
+Topic: 2 
+Words: 0.117*"live" + 0.086*"certain" + 0.058*"necessari" + 0.034*"fill" + 0.024*"clear" + 0.017*"claim" + 0.013*"laugh" + 0.012*"argu" + 0.012*"replac" + 0.011*"humor"
+Topic: 3 
+Words: 0.115*"member" + 0.036*"establish" + 0.028*"christ" + 0.023*"lao" + 0.022*"jesu" + 0.020*"lord" + 0.016*"creat" + 0.016*"fresh" + 0.015*"membership" + 0.012*"mrs."
+Topic: 4 
+Words: 0.119*"experi" + 0.045*"free" + 0.026*"remov" + 0.024*"freedom" + 0.023*"rest" + 0.013*"trial" + 0.013*"weight" + 0.012*"heavi" + 0.011*"independ" + 0.011*"experiment"
+Topic: 5 
+Words: 0.105*"gener" + 0.092*"provid" + 0.039*"dark" + 0.035*"stop" + 0.024*"usual" + 0.014*"schedul" + 0.012*"system" + 0.012*"black" + 0.010*"everybodi" + 0.008*"diseas"
+Topic: 6 
+Words: 0.063*"tri" + 0.048*"oper" + 0.029*"achiev" + 0.020*"attempt" + 0.017*"conduct" + 0.016*"function" + 0.014*"repeat" + 0.013*"perform" + 0.013*"accomplish" + 0.012*"librari"
+Topic: 7 
+Words: 0.035*"board" + 0.028*"statement" + 0.024*"concern" + 0.020*"prove" + 0.017*"late" + 0.016*"mention" + 0.013*"movement" + 0.012*"their" + 0.011*"frame" + 0.010*"note"
+Topic: 8 
+Words: 0.095*"church" + 0.061*"real" + 0.047*"actual" + 0.041*"peac" + 0.041*"high" + 0.039*"summer" + 0.025*"spring" + 0.022*"main" + 0.020*"deep" + 0.019*"coupl"
+Topic: 9 
+Words: 0.138*"mean" + 0.113*"right" + 0.071*"better" + 0.041*"outsid" + 0.032*"insid" + 0.026*"administr" + 0.023*"repres" + 0.021*"john" + 0.021*"explain" + 0.021*"express"
+Topic: 10 
+Words: 0.165*"begin" + 0.113*"hear" + 0.113*"start" + 0.050*"level" + 0.049*"exist" + 0.037*"send" + 0.027*"continu" + 0.019*"english" + 0.014*"england" + 0.010*"sound"
+Topic: 11 
+Words: 0.021*"step" + 0.020*"love" + 0.016*"cloth" + 0.015*"opportun" + 0.012*"arm" + 0.010*"dress" + 0.009*"chanc" + 0.007*"paper" + 0.006*"tax" + 0.006*"wear"
+Topic: 12 
+Words: 0.263*"there" + 0.100*"second" + 0.093*"line" + 0.072*"cours" + 0.066*"moment" + 0.031*"husband" + 0.018*"trip" + 0.018*"fourth" + 0.016*"curv" + 0.011*"befor"
+Topic: 13 
+Words: 0.096*"when" + 0.089*"water" + 0.045*"hour" + 0.021*"soviet" + 0.021*"obtain" + 0.020*"balanc" + 0.015*"dust" + 0.012*"clay" + 0.012*"berlin" + 0.010*"wave"
+Topic: 14 
+Words: 0.078*"call" + 0.042*"success" + 0.035*"view" + 0.024*"posit" + 0.024*"slowli" + 0.024*"locat" + 0.018*"activ" + 0.012*"effect" + 0.012*"opinion" + 0.011*"ought"
+Topic: 15 
+Words: 0.085*"chang" + 0.037*"rate" + 0.036*"commun" + 0.014*"rat" + 0.013*"integr" + 0.010*"transfer" + 0.010*"honor" + 0.010*"moral" + 0.009*"contact" + 0.009*"adjust"
+Topic: 16 
+Words: 0.114*"ask" + 0.070*"modern" + 0.050*"certainli" + 0.048*"thu" + 0.039*"khrushchev" + 0.033*"liber" + 0.028*"pull" + 0.027*"unit" + 0.015*"contemporari" + 0.014*"prokofieff"
+Topic: 17 
+Words: 0.131*"feel" + 0.097*"citi" + 0.097*"felt" + 0.094*"that" + 0.070*"talk" + 0.063*"lose" + 0.062*"spirit" + 0.059*"speak" + 0.039*"washington" + 0.017*"loss"
+Topic: 18 
+Words: 0.141*"home" + 0.109*"public" + 0.023*"sing" + 0.017*"part" + 0.013*"apart" + 0.010*"relationship" + 0.010*"relat" + 0.009*"anger" + 0.008*"still" + 0.007*"portion"
+Topic: 19 
+Words: 0.238*"think" + 0.115*"week" + 0.087*"month" + 0.075*"day" + 0.073*"develop" + 0.049*"spend" + 0.025*"hour" + 0.020*"squar" + 0.012*"year" + 0.007*"circl"
+Topic: 20 
+Words: 0.081*"probabl" + 0.067*"death" + 0.051*"class" + 0.038*"hair" + 0.033*"mayb" + 0.028*"die" + 0.024*"perhap" + 0.021*"benefit" + 0.018*"neck" + 0.016*"advantag"
+Topic: 21 
+Words: 0.167*"follow" + 0.077*"town" + 0.068*"get" + 0.054*"attent" + 0.037*"cold" + 0.030*"cool" + 0.027*"heat" + 0.019*"emot" + 0.015*"warm" + 0.014*"temperatur"
+Topic: 22 
+Words: 0.107*"possibl" + 0.069*"then" + 0.062*"consid" + 0.061*"close" + 0.050*"near" + 0.038*"after" + 0.027*"drink" + 0.024*"foreign" + 0.017*"secret" + 0.014*"devot"
+Topic: 23 
+Words: 0.257*"thi" + 0.087*"point" + 0.058*"light" + 0.029*"sunday" + 0.025*"these" + 0.022*"each" + 0.020*"monday" + 0.020*"saturday" + 0.018*"friday" + 0.018*"island"
+Topic: 24 
+Words: 0.066*"abl" + 0.044*"measur" + 0.042*"properti" + 0.041*"privat" + 0.036*"simpl" + 0.032*"space" + 0.027*"annual" + 0.026*"easi" + 0.025*"daili" + 0.019*"promis"
+Topic: 25 
+Words: 0.163*"american" + 0.054*"avail" + 0.047*"record" + 0.034*"beauti" + 0.033*"earth" + 0.030*"howev" + 0.023*"america" + 0.017*"palmer" + 0.017*"domin" + 0.010*"pretti"
+Topic: 26 
+Words: 0.071*"see" + 0.061*"kennedi" + 0.041*"instead" + 0.027*"from" + 0.026*"confer" + 0.022*"chair" + 0.021*"meet" + 0.019*"first" + 0.018*"seat" + 0.016*"heart"
+Topic: 27 
+Words: 0.069*"order" + 0.032*"hope" + 0.031*"boat" + 0.024*"break" + 0.022*"marriag" + 0.017*"protect" + 0.017*"hop" + 0.015*"marri" + 0.014*"collect" + 0.014*"junior"
+Topic: 28 
+Words: 0.136*"need" + 0.065*"expect" + 0.041*"center" + 0.037*"hors" + 0.024*"relat" + 0.022*"cent" + 0.015*"featur" + 0.015*"factor" + 0.014*"central" + 0.013*"aspect"
+Topic: 29 
+Words: 0.108*"power" + 0.089*"mind" + 0.061*"process" + 0.060*"social" + 0.051*"societi" + 0.030*"assum" + 0.024*"radio" + 0.015*"thank" + 0.015*"shake" + 0.014*"televis"
+Topic: 30 
+Words: 0.153*"stand" + 0.117*"busi" + 0.050*"suddenli" + 0.041*"organ" + 0.037*"yesterday" + 0.035*"suppli" + 0.022*"today" + 0.021*"institut" + 0.018*"sit" + 0.017*"agenc"
+Topic: 31 
+Words: 0.075*"girl" + 0.066*"natur" + 0.061*"includ" + 0.059*"human" + 0.039*"woman" + 0.033*"soon" + 0.032*"women" + 0.030*"boy" + 0.026*"season" + 0.019*"miss"
+Topic: 32 
+Words: 0.056*"play" + 0.051*"minut" + 0.040*"commun" + 0.034*"court" + 0.021*"hanov" + 0.020*"judg" + 0.017*"offic" + 0.016*"game" + 0.015*"captain" + 0.013*"doctor"
+Topic: 33 
+Words: 0.224*"leav" + 0.053*"discuss" + 0.048*"basi" + 0.047*"base" + 0.034*"sale" + 0.031*"tabl" + 0.030*"sell" + 0.022*"depend" + 0.017*"most" + 0.017*"posit"
+Topic: 34 
+Words: 0.035*"case" + 0.017*"normal" + 0.010*"usual" + 0.008*"trial" + 0.005*"ordinari" + 0.005*"mold" + 0.005*"regular" + 0.003*"charg" + 0.003*"convict" + 0.003*"juri"
+Topic: 35 
+Words: 0.054*"requir" + 0.026*"hotel" + 0.017*"forc" + 0.015*"admit" + 0.015*"push" + 0.015*"deni" + 0.009*"refus" + 0.009*"press" + 0.009*"swing" + 0.008*"dog"
+Topic: 36 
+Words: 0.084*"govern" + 0.042*"understand" + 0.034*"forc" + 0.031*"pressur" + 0.029*"militari" + 0.027*"stress" + 0.027*"watch" + 0.021*"armi" + 0.019*"temperatur" + 0.018*"depart"
+Topic: 37 
+Words: 0.098*"mrs." + 0.095*"head" + 0.041*"parti" + 0.038*"singl" + 0.029*"floor" + 0.025*"lead" + 0.023*"miss" + 0.021*"rel" + 0.013*"leader" + 0.011*"fairli"
+Topic: 38 
+Words: 0.017*"lack" + 0.016*"list" + 0.009*"just" + 0.008*"fail" + 0.007*"wilson" + 0.007*"robert" + 0.006*"jone" + 0.005*"watson" + 0.005*"absenc" + 0.005*"warn"
+Topic: 39 
+Words: 0.127*"complet" + 0.044*"demand" + 0.031*"literatur" + 0.029*"entir" + 0.027*"mark" + 0.020*"sign" + 0.017*"knee" + 0.017*"finish" + 0.015*"leg" + 0.015*"fulli"
+Topic: 40 
+Words: 0.085*"bring" + 0.080*"final" + 0.049*"mile" + 0.043*"inch" + 0.034*"feet" + 0.034*"secretari" + 0.023*"sampl" + 0.019*"dollar" + 0.017*"yard" + 0.013*"pound"
+Topic: 41 
+Words: 0.115*"nation" + 0.072*"presid" + 0.060*"eye" + 0.033*"christian" + 0.026*"cell" + 0.025*"cathol" + 0.014*"chicago" + 0.014*"protest" + 0.013*"intern" + 0.010*"governor"
+Topic: 42 
+Words: 0.140*"tell" + 0.079*"door" + 0.065*"read" + 0.063*"best" + 0.045*"caus" + 0.029*"market" + 0.026*"produc" + 0.024*"pay" + 0.020*"manner" + 0.020*"way"
+Topic: 43 
+Words: 0.198*"hous" + 0.070*"subject" + 0.034*"offici" + 0.025*"congo" + 0.017*"set" + 0.016*"build" + 0.012*"twice" + 0.011*"divis" + 0.011*"divid" + 0.010*"object"
+Topic: 44 
+Words: 0.090*"import" + 0.043*"major" + 0.024*"signific" + 0.017*"shoot" + 0.012*"influenc" + 0.012*"consider" + 0.011*"highli" + 0.009*"vital" + 0.009*"essenti" + 0.008*"extrem"
+Topic: 45 
+Words: 0.115*"good" + 0.086*"differ" + 0.050*"room" + 0.041*"shall" + 0.034*"return" + 0.030*"pass" + 0.020*"accord" + 0.019*"similar" + 0.019*"size" + 0.018*"fine"
+Topic: 46 
+Words: 0.037*"determin" + 0.035*"control" + 0.016*"mike" + 0.012*"find" + 0.009*"smell" + 0.009*"version" + 0.005*"shoot" + 0.005*"interpret" + 0.005*"tast" + 0.005*"symphoni"
+Topic: 47 
+Words: 0.205*"result" + 0.201*"unit" + 0.066*"danc" + 0.059*"entir" + 0.018*"dancer" + 0.015*"except" + 0.013*"consequ" + 0.013*"outcom" + 0.012*"lead" + 0.011*"state"
+Topic: 48 
+Words: 0.150*"hand" + 0.063*"answer" + 0.042*"nuclear" + 0.033*"medic" + 0.020*"drop" + 0.019*"finger" + 0.017*"doctor" + 0.017*"repli" + 0.014*"reaction" + 0.014*"hospit"
+Topic: 49 
+Words: 0.138*"want" + 0.095*"studi" + 0.055*"industri" + 0.048*"matter" + 0.033*"respons" + 0.027*"theori" + 0.025*"combin" + 0.022*"wish" + 0.018*"principl" + 0.015*"investig"
+Topic: 50 
+Words: 0.396*"say" + 0.065*"show" + 0.043*"effort" + 0.038*"period" + 0.018*"averag" + 0.016*"econom" + 0.016*"ask" + 0.013*"attempt" + 0.013*"tell" + 0.010*"electr"
+Topic: 51 
+Words: 0.135*"area" + 0.110*"present" + 0.108*"fact" + 0.062*"situat" + 0.055*"addit" + 0.039*"add" + 0.027*"name" + 0.024*"region" + 0.018*"news" + 0.015*"fenc"
+Topic: 52 
+Words: 0.030*"john" + 0.025*"south" + 0.025*"west" + 0.023*"offic" + 0.021*"communist" + 0.019*"southern" + 0.019*"east" + 0.018*"north" + 0.014*"william" + 0.012*"one"
+Topic: 53 
+Words: 0.065*"method" + 0.055*"allow" + 0.035*"techniqu" + 0.035*"permit" + 0.032*"teeth" + 0.025*"where" + 0.025*"mouth" + 0.016*"lip" + 0.016*"procedur" + 0.013*"approach"
+Topic: 54 
+Words: 0.133*"long" + 0.057*"earli" + 0.042*"money" + 0.033*"figur" + 0.033*"keep" + 0.030*"prepar" + 0.029*"interest" + 0.027*"readi" + 0.025*"offer" + 0.023*"contribut"
+Topic: 55 
+Words: 0.201*"peopl" + 0.076*"countri" + 0.067*"idea" + 0.061*"believ" + 0.037*"true" + 0.028*"concept" + 0.021*"think" + 0.018*"faith" + 0.016*"food" + 0.015*"belief"
+Topic: 56 
+Words: 0.140*"life" + 0.103*"person" + 0.051*"individu" + 0.041*"total" + 0.038*"move" + 0.035*"white" + 0.020*"black" + 0.019*"touch" + 0.019*"director" + 0.013*"america"
+Topic: 57 
+Words: 0.223*"state" + 0.051*"write" + 0.030*"citi" + 0.028*"counti" + 0.023*"nation" + 0.022*"countri" + 0.014*"district" + 0.012*"here" + 0.010*"town" + 0.009*"commun"
+Topic: 58 
+Words: 0.082*"kind" + 0.072*"type" + 0.054*"grow" + 0.040*"sort" + 0.023*"event" + 0.022*"growth" + 0.020*"anim" + 0.017*"interview" + 0.013*"throw" + 0.012*"crisi"
+Topic: 59 
+Words: 0.051*"bodi" + 0.043*"walk" + 0.034*"student" + 0.027*"audienc" + 0.024*"role" + 0.014*"enjoy" + 0.014*"charact" + 0.013*"patient" + 0.011*"drive" + 0.011*"truth"
+Topic: 60 
+Words: 0.197*"world" + 0.161*"great" + 0.089*"larg" + 0.080*"young" + 0.017*"fast" + 0.016*"greater" + 0.013*"larger" + 0.011*"quick" + 0.010*"univers" + 0.010*"vast"
+Topic: 61 
+Words: 0.130*"number" + 0.109*"school" + 0.069*"hold" + 0.035*"farm" + 0.030*"figur" + 0.019*"rhode" + 0.014*"although" + 0.014*"tabl" + 0.014*"jess" + 0.010*"farmer"
+Topic: 62 
+Words: 0.165*"place" + 0.064*"wall" + 0.060*"road" + 0.032*"religi" + 0.030*"religion" + 0.027*"session" + 0.027*"hill" + 0.016*"mountain" + 0.015*"encourag" + 0.014*"meet"
+Topic: 63 
+Words: 0.103*"group" + 0.083*"make" + 0.059*"build" + 0.053*"compani" + 0.024*"run" + 0.018*"anod" + 0.018*"construct" + 0.015*"save" + 0.014*"firm" + 0.009*"oxygen"
+Topic: 64 
+Words: 0.078*"word" + 0.061*"question" + 0.029*"that" + 0.025*"perform" + 0.024*"product" + 0.022*"what" + 0.022*"some" + 0.021*"democrat" + 0.020*"then" + 0.018*"when"
+Topic: 65 
+Words: 0.116*"open" + 0.088*"report" + 0.055*"sure" + 0.045*"cover" + 0.034*"elect" + 0.027*"well" + 0.025*"fall" + 0.020*"shelter" + 0.014*"fell" + 0.013*"close"
+Topic: 66 
+Words: 0.048*"develop" + 0.035*"futur" + 0.018*"past" + 0.017*"agre" + 0.014*"agreement" + 0.014*"notic" + 0.013*"note" + 0.012*"wage" + 0.011*"observ" + 0.010*"travel"
+Topic: 67 
+Words: 0.064*"increas" + 0.030*"evid" + 0.027*"reduc" + 0.023*"prevent" + 0.020*"term" + 0.020*"improv" + 0.017*"appar" + 0.014*"rule" + 0.014*"edg" + 0.009*"obvious"
+Topic: 68 
+Words: 0.224*"they" + 0.176*"thing" + 0.148*"littl" + 0.023*"choos" + 0.017*"choic" + 0.017*"rain" + 0.016*"select" + 0.016*"incom" + 0.012*"wind" + 0.007*"weather"
+Topic: 69 
+Words: 0.032*"happen" + 0.029*"wait" + 0.029*"direct" + 0.023*"appear" + 0.017*"occur" + 0.015*"remain" + 0.011*"wear" + 0.011*"immedi" + 0.010*"play" + 0.009*"directli"
+Topic: 70 
+Words: 0.076*"children" + 0.050*"special" + 0.044*"child" + 0.040*"color" + 0.037*"rememb" + 0.029*"attitud" + 0.023*"bridg" + 0.018*"sourc" + 0.015*"daughter" + 0.013*"posit"
+Topic: 71 
+Words: 0.033*"these" + 0.030*"polic" + 0.029*"univers" + 0.026*"short" + 0.019*"colleg" + 0.015*"french" + 0.015*"ball" + 0.014*"russian" + 0.012*"jewish" + 0.012*"chines"
+Topic: 72 
+Words: 0.081*"inform" + 0.064*"million" + 0.036*"enter" + 0.032*"thousand" + 0.030*"grind" + 0.021*"land" + 0.020*"data" + 0.016*"billion" + 0.015*"energi" + 0.014*"materi"
+Topic: 73 
+Words: 0.374*"time" + 0.065*"recent" + 0.044*"indic" + 0.041*"suggest" + 0.029*"some" + 0.026*"union" + 0.021*"blue" + 0.021*"propos" + 0.018*"recommend" + 0.015*"green"
+Topic: 74 
+Words: 0.100*"exampl" + 0.082*"design" + 0.040*"seek" + 0.037*"white" + 0.035*"hell" + 0.025*"search" + 0.024*"includ" + 0.024*"structur" + 0.022*"damn" + 0.020*"shape"
+Topic: 75 
+Words: 0.061*"half" + 0.043*"purpos" + 0.027*"draw" + 0.023*"particular" + 0.023*"specif" + 0.018*"object" + 0.014*"goal" + 0.012*"wagon" + 0.010*"alex" + 0.009*"jack"
+Topic: 76 
+Words: 0.089*"centuri" + 0.066*"basic" + 0.042*"fee" + 0.034*"sleep" + 0.017*"allot" + 0.016*"essenti" + 0.015*"those" + 0.015*"dream" + 0.015*"feed" + 0.014*"fundament"
+Topic: 77 
+Words: 0.016*"clear" + 0.015*"greater" + 0.015*"surpris" + 0.010*"skill" + 0.009*"higher" + 0.009*"larger" + 0.009*"obviou" + 0.009*"ship" + 0.008*"older" + 0.007*"poor"
+Topic: 78 
+Words: 0.064*"condit" + 0.061*"polit" + 0.048*"dead" + 0.042*"polici" + 0.028*"pain" + 0.027*"enemi" + 0.023*"famou" + 0.023*"mercer" + 0.019*"suffer" + 0.016*"circumst"
+Topic: 79 
+Words: 0.057*"with" + 0.039*"sinc" + 0.039*"pictur" + 0.028*"equip" + 0.026*"involv" + 0.021*"while" + 0.020*"after" + 0.019*"when" + 0.014*"from" + 0.013*"becaus"
+Topic: 80 
+Words: 0.085*"wife" + 0.082*"histori" + 0.054*"feet" + 0.033*"stock" + 0.029*"share" + 0.019*"unusu" + 0.018*"strang" + 0.018*"husband" + 0.013*"histor" + 0.013*"foot"
+Topic: 81 
+Words: 0.142*"small" + 0.048*"york" + 0.023*"congress" + 0.022*"senat" + 0.020*"end" + 0.018*"stori" + 0.014*"wide" + 0.013*"island" + 0.012*"street" + 0.012*"smaller"
+Topic: 82 
+Words: 0.053*"surfac" + 0.050*"train" + 0.038*"educ" + 0.031*"plant" + 0.029*"tree" + 0.016*"teach" + 0.016*"plu" + 0.016*"flower" + 0.011*"teacher" + 0.009*"cours"
+Topic: 83 
+Words: 0.049*"support" + 0.036*"carri" + 0.033*"pattern" + 0.015*"assist" + 0.013*"engin" + 0.011*"award" + 0.011*"loan" + 0.010*"patient" + 0.009*"grant" + 0.009*"sponsor"
+Topic: 84 
+Words: 0.125*"what" + 0.038*"nearli" + 0.029*"somewhat" + 0.017*"slightli" + 0.017*"purchas" + 0.015*"buy" + 0.012*"examin" + 0.010*"practic" + 0.010*"analysi" + 0.010*"virtual"
+Topic: 85 
+Words: 0.108*"away" + 0.086*"reach" + 0.035*"june" + 0.032*"march" + 0.029*"novemb" + 0.027*"april" + 0.026*"juli" + 0.025*"paint" + 0.021*"septemb" + 0.019*"octob"
+Topic: 86 
+Words: 0.177*"go" + 0.079*"program" + 0.076*"form" + 0.031*"contain" + 0.018*"catch" + 0.017*"consist" + 0.013*"plan" + 0.012*"carri" + 0.009*"bear" + 0.008*"move"
+Topic: 87 
+Words: 0.331*"like" + 0.061*"cost" + 0.052*"friend" + 0.039*"especi" + 0.032*"field" + 0.030*"particularli" + 0.024*"announc" + 0.015*"expens" + 0.013*"approv" + 0.011*"declar"
+Topic: 88 
+Words: 0.057*"piec" + 0.056*"voic" + 0.040*"popul" + 0.033*"limit" + 0.016*"item" + 0.015*"coffe" + 0.011*"seri" + 0.009*"sound" + 0.009*"meet" + 0.008*"milk"
+Topic: 89 
+Words: 0.087*"famili" + 0.057*"continu" + 0.039*"fear" + 0.028*"seven" + 0.026*"tradit" + 0.020*"remain" + 0.018*"car" + 0.015*"worri" + 0.014*"maintain" + 0.011*"vehicl"
+Topic: 90 
+Words: 0.062*"servic" + 0.061*"today" + 0.056*"sens" + 0.054*"care" + 0.040*"section" + 0.024*"serv" + 0.019*"happi" + 0.017*"stage" + 0.017*"rang" + 0.016*"phase"
+Topic: 91 
+Words: 0.082*"plan" + 0.067*"have" + 0.050*"1960" + 0.044*"test" + 0.037*"1961" + 0.031*"1958" + 0.027*"negro" + 0.026*"1959" + 0.016*"activ" + 0.012*"1957"
+Topic: 92 
+Words: 0.216*"look" + 0.048*"turn" + 0.041*"letter" + 0.038*"appear" + 0.032*"rise" + 0.027*"rais" + 0.022*"degre" + 0.020*"extent" + 0.020*"star" + 0.016*"glanc"
+Topic: 93 
+Words: 0.045*"music" + 0.024*"polit" + 0.023*"social" + 0.021*"hard" + 0.021*"econom" + 0.020*"difficult" + 0.014*"individu" + 0.013*"independ" + 0.013*"physic" + 0.010*"separ"
+Topic: 94 
+Words: 0.357*"year" + 0.068*"later" + 0.036*"learn" + 0.021*"staff" + 0.018*"field" + 0.010*"mani" + 0.010*"onc" + 0.009*"bottl" + 0.009*"month" + 0.008*"coat"
+Topic: 95 
+Words: 0.113*"night" + 0.080*"action" + 0.059*"even" + 0.042*"morn" + 0.040*"fight" + 0.037*"vote" + 0.029*"decid" + 0.026*"afternoon" + 0.024*"strong" + 0.024*"decis"
+Topic: 96 
+Words: 0.317*"know" + 0.172*"give" + 0.045*"meet" + 0.042*"mere" + 0.038*"street" + 0.037*"feder" + 0.034*"simpli" + 0.014*"hardli" + 0.009*"recogn" + 0.008*"realiz"
+Topic: 97 
+Words: 0.131*"problem" + 0.091*"help" + 0.070*"valu" + 0.037*"window" + 0.036*"book" + 0.034*"past" + 0.021*"issu" + 0.021*"worth" + 0.019*"despit" + 0.018*"previou"
+Topic: 98 
+Words: 0.080*"face" + 0.046*"receiv" + 0.033*"smile" + 0.030*"troubl" + 0.024*"river" + 0.016*"hang" + 0.016*"strike" + 0.014*"writer" + 0.012*"leader" + 0.011*"owner"
+Topic: 99 
+Words: 0.052*"accept" + 0.049*"committe" + 0.035*"exactli" + 0.023*"precis" + 0.017*"job" + 0.016*"thirti" + 0.014*"bend" + 0.013*"atmospher" + 0.012*"employ" + 0.012*"univers"
+
+Perplexity: -6.342074927793918
+
+Coherence: 0.433227035340958
+Time for this WHOLE thing: 213.6 mins
