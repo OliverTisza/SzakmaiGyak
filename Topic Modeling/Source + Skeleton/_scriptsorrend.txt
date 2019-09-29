@@ -1,0 +1,20 @@
+1.: sparse_embedding
+2.: cnet
+3.: make_docs
+
+A 4-es 5-ös azért kellett mert nem fért bele az összes dokumentum a memóriába
+
+4.: save_dict
+5.: save_corpus
+
+
+6.: LDA_creator ( ezen a ponton a top_words.py is futtatható)
+
+
+7.: matrix_creator
+8.: matrix_plotter
+
+----------Ezen a ponton túl eddig nem jutottam----------
+
+9.: matrix_mult
+10.: matrix_evaluator
