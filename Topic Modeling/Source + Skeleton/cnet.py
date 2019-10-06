@@ -1,6 +1,7 @@
 from time import time
 import pickle as pkl
 import argparse
+import gzip
 
 """
 
@@ -12,10 +13,8 @@ Korlátozottságok miatt, csak az első 50k szó concepjét keresi ki. 57.-60. s
 Paraméterek :
 
 	path : ahonnan az i2w-t betölti, és ugyanide menti az új fájlt concepts.pkl néven
-	cnet-location : ahol a cnet van
+	cnet-location : ahol a cnet van (tömörített fájlnak kell lennie, nekem: conceptnet-assertions-5.7.0.csv.gz)
 	
-		én ezt még akkoriban kicsomagoltam, úgyhogy
-		egy assertions.csv-t keres (conceptnet-assertions-5.7.0.csv.gz eredetileg)
 
 -------------
 
@@ -37,7 +36,7 @@ args = parser.parse_args()
 path = args.path
 cnet_location = args.cnet_location
 
-f = open(cnet_location+'\\assertions.csv','r',encoding="utf8")
+f = gzip.open(cnet_location,'rb')
 
 with open(path+'\\unprocessed_ws.pkl','rb') as g:
 	i2w = pkl.load(g)
@@ -65,7 +64,9 @@ kikeres
 """
 
 
-line = f.readline().split()
+line = f.readline().decode("utf-8").split()
+
+
 while line:
 	if line[2][6:] in word_concept.keys() and ('/c/en/' in line[3] and '/c/en/' in line[2]):
 		#print(line[2][6:],line[3][6:])
@@ -76,7 +77,7 @@ while line:
 		word_concept[line[3][6:]].append(line[2][6:])
 
 							
-	line = f.readline().split()
+	line = f.readline().decode("utf-8").split()
 
 pkl.dump(word_concept,open(path+"\\concepts.pkl","wb"))
 print('Cnet time: {} mins'.format(round((time() - t) / 60, 2)))

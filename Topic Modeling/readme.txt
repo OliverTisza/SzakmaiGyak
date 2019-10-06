@@ -20,8 +20,5 @@ Amit NEM tartalmaz a Source + Skeleton mappa DE szükséged lesz rá:
 					    glove300d_l_0.1_GS_top400000.emb.gz
 					    glove300d_l_0.1_kmeans_top400000.emb.gz)
 
--Cnet kicsomagolva (vagy átírod a cnet.py-t hogy ne kelljen kicsomagolni, vagy megkérsz rá, hogy írjam meg és megvárod míg megírom)
-Ezt assertions.csv néven fogja keresni a script (cnet.py 40.sor)
-
-Az én cnet-em: conceptnet-assertions-5.7.0.csv.gz --extract--> assertions.csv
+-Cnet tömörítve (nekem: conceptnet-assertions-5.7.0.csv.gz)
 
