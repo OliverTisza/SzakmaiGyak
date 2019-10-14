@@ -1,7 +1,7 @@
 @echo off
 
 
-python sparse_embedding.py --savepath Glove_DL --embedding-location C:\Users\Oliver\Desktop\Week_6\Glove_sparse\glove300d_l_0.1_DL_top400000.emb.gz 2> info.txt
+python sparse_embedding.py --savepath Glove_DL --embedding-location C:\Users\Oliver\Desktop\TModeling\Glove_sparse\glove300d_l_0.1_DL_top400000.emb.gz 2> info.txt
 python cnet.py --path Glove_DL --cnet-location C:\Users\Oliver\Desktop\Week_3\feladat_3\conceptnet-assertions-5.7.0.csv.gz 2>> info.txt
 python make_docs.py --path Glove_DL 2>> info.txt
 python save_dict.py --path Glove_DL 2>> info.txt

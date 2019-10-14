@@ -43,17 +43,21 @@ with open(path+"\\cnet\\cnet_dict.pkl","rb") as g:
 				
 
 for j in range(0,1000,50):
-		
-		documents = []             
+	try:
+		documents = []
+
 		for i in range(j,j+50):
-				
-				with open(path+'\\cnet\\cnet_docs\\cnet_document'+str(i)+'.pkl','rb')as file:
-						documents.append(pkl.load(file))
-		
-		
+			with open(path+'\\cnet\\cnet_docs\\cnet_document'+str(i)+'.pkl','rb')as file:
+				documents.append(pkl.load(file))
+					
+					
 		bow_corpus = [dictionary.doc2bow(doc) for doc in documents]
+			
 		for i in range(len(bow_corpus)):
 				pkl.dump(bow_corpus[i],open(path+"\\cnet\\cnet_corpus.pkl","ab"))
+
+	except:
+		break
 		
 print('Time for creating the corpus: {} mins'.format(round((time() - t) / 60, 2)))
 	

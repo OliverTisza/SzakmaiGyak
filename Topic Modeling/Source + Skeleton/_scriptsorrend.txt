@@ -1,4 +1,4 @@
-1.: sparse_embedding
+1.: sparse_embedding ÉS/VAGY semcat_prepare
 2.: cnet
 3.: make_docs
 

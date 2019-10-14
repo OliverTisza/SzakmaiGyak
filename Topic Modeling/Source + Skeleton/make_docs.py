@@ -71,21 +71,24 @@ for j in range (0,50000):#len(arr_matrix)... általánosságban len(arr_matrix) 
 	tmp_nonzeroes = []
 	docs = []
 	word = j
-	
-	for i in range(0,len(arr_matrix[j])):
-		if arr_matrix[j][i] != 0.0:
-			
-			#print(str(j)+".-edik szó",str(i)+".-edik dokumentumban: ",arr_matrix[j][i])
-			tmp_nonzeroes.append(arr_matrix[j][i])
-			docs.append(i)
 
+	try:
 	
-	
-	for i,num in enumerate(tmp_nonzeroes):
-		#for k in range(0,math.ceil((num/sum(tmp_nonzeroes))*len(arr_matrix[0]))):  <- Vanda hackje
-		for l in range(len(concepts[i2w[j]])):
-			documents[docs[i]].append(concepts[i2w[j]][l])
+		for i in range(0,len(arr_matrix[j])):
+			if arr_matrix[j][i] != 0.0:
+				
+				#print(str(j)+".-edik szó",str(i)+".-edik dokumentumban: ",arr_matrix[j][i])
+				tmp_nonzeroes.append(arr_matrix[j][i])
+				docs.append(i)
 
+		
+		
+		for i,num in enumerate(tmp_nonzeroes):
+			#for k in range(0,math.ceil((num/sum(tmp_nonzeroes))*len(arr_matrix[0]))):  <- Vanda hackje
+			for l in range(len(concepts[i2w[j]])):
+				documents[docs[i]].append(concepts[i2w[j]][l])
+	except:
+		break
 
 	
 				

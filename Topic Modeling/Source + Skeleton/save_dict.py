@@ -41,18 +41,22 @@ Egyszerre csak annyi dokumentumot tölt be amennyi belefér a memóriába (jelen
 			
 	
 for j in range(0,1000,50):
-				
-	documents = []             
-	for i in range(j,j+50):
-		with open(path+'\\cnet\\cnet_docs\\cnet_document'+str(i)+'.pkl','rb')as file:
-			documents.append(pkl.load(file))
+	try:
 		
-	if j == 0:
-		dictionary = gensim.corpora.Dictionary(documents)
-		
-	else:
-		dictionary2 = gensim.corpora.Dictionary(documents)
-		transformer = dictionary.merge_with(dictionary2)
+		documents = []             
+		for i in range(j,j+50):
+			with open(path+'\\cnet\\cnet_docs\\cnet_document'+str(i)+'.pkl','rb')as file:
+				documents.append(pkl.load(file))
+			
+		if j == 0:
+			dictionary = gensim.corpora.Dictionary(documents)
+			
+		else:
+			dictionary2 = gensim.corpora.Dictionary(documents)
+			transformer = dictionary.merge_with(dictionary2)
+
+	except:
+		break
 		
 dictionary.filter_extremes(no_below=15, no_above=0.5, keep_n=100000)	
 pkl.dump(dictionary,open(path+"\\cnet\\cnet_dict.pkl","wb"))
