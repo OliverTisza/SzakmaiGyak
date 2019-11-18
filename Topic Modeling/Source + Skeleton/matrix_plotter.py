@@ -4,46 +4,32 @@ import argparse
 from time import time
 import os
 import matplotlib.pyplot as plt
-
-
-"""
-Plotokat készít arra vonatkozóan, hogy egy dokumentumhoz az összes topic közül melyiket mennyire rendelte hozzá.
-Ezek a plotok kerülnek cnet-en belül a cnet\\doc_top_plots mappába
-
-A 33. sorban átírható hogy az első hány dokumentum plotját készítse el.
-
-"""
-
-
+import seaborn as sns
 
 
 parser = argparse.ArgumentParser(description='Process some integers.')
 parser.add_argument('--path', required=False,default=".", type=str)
+parser.add_argument('--NT', required=True,default=100, type=int)
 args = parser.parse_args()
 path = args.path
+NT = args.NT
 
 t = time()
 
-with open(path+"\\cnet\\doc_top_matrix.pkl","rb") as f:
+with open(path+"\\cnet\\doc_top_matrix_NT"+str(NT)+".pkl","rb") as f:
 		doc_top = pkl.load(f)
 
-
-
-plt.figure(figsize=(25,10))
-for j in range(50): # <- hány dokumentum topic relevanciáját plotoljuk
-	arr = []
-
-	for i in range(len(doc_top[0])):
-		if(doc_top[j][i] != 0):
-			arr.append(i)
-			
-
+with open(path+"\\cnet\\normalized_top_term_matrix_NT"+str(NT)+".pkl","rb") as g:
+		top_term = pkl.load(g)
 		
-	
-	plt.bar(np.arange(len(doc_top[j])),doc_top[j])
-	plt.xticks(arr,arr)
-	plt.ylabel('Relevance')
-	
-	plt.savefig(path+'\\cnet\\doc_top_plots\\doc_'+str(j)+'_topic_relevance.png')
-	plt.clf()
-   
+
+plt.figure(figsize=(35,15))
+ax = sns.heatmap(doc_top)
+plt.savefig(path+'\\cnet\\doc_top_plots\\document_topic_relevance_heatmap_NT'+str(NT)+'.png')
+plt.clf()
+
+plt.figure(figsize=(35,15))
+ax = sns.heatmap(top_term)
+plt.savefig(path+'\\cnet\\top_term_plots\\normalized_topic_term_relevance_heatmap_NT'+str(NT)+'.png')
+plt.clf()
+

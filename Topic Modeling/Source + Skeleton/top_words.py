@@ -37,7 +37,7 @@ with open(path+"\\unprocessed_ws.pkl","rb") as h:
 
 top10 = open(path+"\\top10words_per_doc.txt",'w',encoding='utf8')
 
-sparse_matrix = scipy.sparse.load_npz(path+'\\sparse_matrix.npz')
+sparse_matrix = scipy.sparse.load_npz(path+'\\normalized_sparse_matrix.npz')
 
 
 for i in range(1000):

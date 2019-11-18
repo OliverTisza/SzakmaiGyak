@@ -4,61 +4,39 @@ import argparse
 from time import time
 import os
 from sklearn.preprocessing import normalize
-
-"""
-Egyelőre csak konzolra írat ki.
-
-argmax-al kiválasztja a dokumentumhoz legjobban illő term-et.
-
-Ezt megcsinálja az eredeti mátrixra illetve az l1,l2 norlmalizált változataira.
-
-Egy halmazba pakolja a termek id-jét, végülis engem csak az érdekelne mennyi különböző van 1000 különböző dokumentumra.
-
-"""
+import seaborn as sns
+import matplotlib.pylab as plt
 
 parser = argparse.ArgumentParser(description='Process some integers.')
 parser.add_argument('--path', required=False,default=".", type=str)
+parser.add_argument('--NT', required=True,default=100, type=int)
 args = parser.parse_args()
 path = args.path
+NT = args.NT
 
-with open(path+"\\cnet\\fontos_doc_term_matrix.pkl","rb") as f:
+with open(path+"\\cnet\\fontos_doc_term_matrix_NT"+str(NT)+".pkl","rb") as f:
 		matrix = pkl.load(f)
 
 with open(path+"\\cnet\\cnet_dict.pkl","rb") as g:
 		dictionary = pkl.load(g)
-"""
-print(len(dictionary),"dict")
-print(len(matrix),"sor(minden sor egy dokumentum)")
-print(len(matrix[0]),"oszlop(minden oszlop egy concept=szó=term)")
-"""
-my_set = {0}
 
-for i in range(len(matrix)):
-	
-	my_set.add(np.argmax(matrix[i]))
 
-print(my_set)
 
 """------------"""
 
-L1_matrix = normalize(matrix,norm='l1')
-
-my_set = {0}
-
-for i in range(len(L1_matrix)):
-	my_set.add(np.argmax(L1_matrix[i]))
-
-print(my_set)
-
-"""------------"""
-
-L2_matrix = normalize(matrix,norm='l2')
-
-my_set = {0}
-
-for i in range(len(L2_matrix)):
-	my_set.add(np.argmax(L2_matrix[i]))
+L1_matrix = normalize(matrix,norm='l1',axis=1)
 
 
-print(my_set)
+"""
+plt.figure(figsize=(25,10))
+ax = sns.heatmap(L1_matrix[0:900])
+plt.savefig(path+'\\cnet\\doc_term_plots\\heatmap_doc_0_900_NT'+str(NT)+'_col_norm1.png')
+plt.clf()
+
+"""
+plt.figure(figsize=(25,10))
+ax = sns.heatmap(L1_matrix[0:900])
+plt.savefig(path+'\\cnet\\doc_term_plots\\heatmap_doc_0_900_NT'+str(NT)+'_row_norm1.png')
+plt.clf()
+
 

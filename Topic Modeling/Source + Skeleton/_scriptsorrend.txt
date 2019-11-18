@@ -1,20 +1,19 @@
 1.: sparse_embedding ÉS/VAGY semcat_prepare
-2.: cnet
-3.: make_docs
+2.: sparse_matrix_normalizer
+3.: cnet
+4.: make_docs
 
-A 4-es 5-ös azért kellett mert nem fért bele az összes dokumentum a memóriába
+Az 5-ös 6-os azért kellett mert nem fért bele az összes dokumentum a memóriámba
 
-4.: save_dict
-5.: save_corpus
-
-
-6.: LDA_creator ( ezen a ponton a top_words.py is futtatható)
+5.: save_dict
+6.: save_corpus
 
 
-7.: matrix_creator
-8.: matrix_plotter
+7.: LDA_creator ( ezen a ponton a top_words.py is futtatható)
 
-----------Ezen a ponton túl eddig nem jutottam----------
 
-9.: matrix_mult
-10.: matrix_evaluator
+8.: matrix_creator
+9.: matrix_plotter
+
+10.: matrix_mult
+11.: matrix_evaluator
