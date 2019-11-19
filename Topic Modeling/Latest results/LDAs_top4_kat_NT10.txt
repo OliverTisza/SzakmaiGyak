@@ -1,0 +1,48 @@
+
+DOC: 142
+wean/n/wikt/en_2
+makhuwa/n
+quadrominium/n
+use_vcr
+
+DOC: 144
+hydrophobization/n
+antibeauty/a
+purge/n
+thyro
+
+DOC: 155
+makhuwa/n
+thrillmance/n
+heswall/n
+gorge_circle/n
+
+DOC: 484
+grumiplucite/n
+sextolet/n
+vectorial/a
+petzite/n
+
+DOC: 742
+clubhouse/n
+iodian/a
+dezhou/n
+cauzee/n
+
+DOC: 744
+differential_diagnosis/n
+orbital_symmetry/n
+plate_reader/n
+glucocentric/a
+
+DOC: 755
+orbital_symmetry/n
+photoreversible/a
+photorelease/n
+microplate_reader/n
+
+DOC: 779
+clubhouse/n
+cauzee/n
+japanese_night_heron/n
+champagne_ardenne

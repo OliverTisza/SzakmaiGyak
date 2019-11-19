@@ -1,0 +1,48 @@
+
+DOC: 142
+ehlite/n
+vantasselite/n
+goldfieldite/n
+petzite/n
+
+DOC: 144
+in_advance/r
+arches
+onager/n
+overnight
+
+DOC: 155
+surely/r
+tuba/n/wikt/en_3
+hindward/a
+incut/a
+
+DOC: 484
+nervii/n
+jook/v/wikt/en_1
+station_house/n
+for_students
+
+DOC: 742
+eucryptite/n
+macrinite/n
+castor/n/wikt/en_2
+gymnite/n
+
+DOC: 744
+shitskin/n
+go_down_like_cup_of_cold_sick/v
+helluv
+shithook/n
+
+DOC: 755
+coronal_plane/n
+semibrachiation/n
+oculodorsal/a
+ketogenesis/n
+
+DOC: 779
+beryl/n
+hardystonite/n
+postsacral/a
+anoxygenic/a
