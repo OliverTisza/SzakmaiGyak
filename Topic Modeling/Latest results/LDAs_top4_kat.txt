@@ -1,0 +1,47 @@
+DOC: 142
+dutch_courage/n
+bug_people
+judeophobia/n
+romaniote/n
+
+DOC: 144
+syringin/n
+french_tip/n
+inanimate_object
+siennese/a
+
+DOC: 155
+judeo_christian_islamic/a
+alethophobia/n
+heort
+one_worldism/n
+
+DOC: 484
+beryl/n
+kalian/a/wikt/en_1
+cosalite/n
+namibite/n
+
+DOC: 742
+beryl/n
+macrinite/n
+parapierrotite/n
+namibite/n
+
+DOC: 744
+flyness/n
+beryl/n
+fundie/n
+kalian/a/wikt/en_1
+
+DOC: 755
+androecious/a
+josiah_willard_gibbs
+neurochemistry/n
+abopercular/a
+
+DOC: 779
+quim/n/wikt/en_1
+ulama/n/wikt/en_2
+meeja/n
+sky_fairy/n
